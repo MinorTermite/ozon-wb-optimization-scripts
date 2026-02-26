@@ -1,0 +1,25 @@
+# User-defined ignores
+.env
+*.json
+*.csv
+*.log
+*.txt
+*.webp
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Archives
+archives/
+data_dump/
+audit_logs/
