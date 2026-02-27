@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-02-27 15:14:20",
+  "summary": {
+    "total_cards": 0,
+    "drafts": 0,
+    "published": 0,
+    "cards_with_api_errors": 0,
+    "zero_stock_items": 49
+  },
+  "api_errors": {
+    "total": 0,
+    "by_type": {},
+    "details": []
+  },
+  "validation_issues": {},
+  "drafts_list": [],
+  "critical_actions": [
+    "🔴 Пополнить остатки для 49 товаров"
+  ]
+}

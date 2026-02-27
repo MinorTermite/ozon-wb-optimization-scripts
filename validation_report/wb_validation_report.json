@@ -1,0 +1,23 @@
+{
+  "total": 0,
+  "val_errors": 0,
+  "issues": {
+    "long_title": 0,
+    "no_brand": 0,
+    "wrong_brand": 0,
+    "zero_dims": 0,
+    "no_weight": 0,
+    "low_rating": 0,
+    "few_photos": 0
+  },
+  "details": {
+    "long_title": [],
+    "no_brand": [],
+    "wrong_brand": [],
+    "zero_dims": [],
+    "no_weight": [],
+    "low_rating": [],
+    "few_photos": []
+  },
+  "api_errors": []
+}

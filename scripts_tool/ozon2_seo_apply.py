@@ -64,7 +64,8 @@ def expand_title(name):
 
 def apply_seo():
     print("Loading data...")
-    with open('ozon2_active_attributes.json', 'r', encoding='utf-8') as f:
+    # The script is run from project root, data is in data_dump
+    with open('data_dump/ozon2_active_attributes.json', 'r', encoding='utf-8') as f:
         attrs = json.load(f)
 
     print(f"Processing {len(attrs)} products...")

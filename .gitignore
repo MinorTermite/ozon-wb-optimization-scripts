@@ -1,25 +1,35 @@
-# User-defined ignores
+# Секреты — НИКОГДА не коммитим
 .env
-*.json
-*.csv
-*.log
-*.txt
+*.key
+
+# Бинарные и медиафайлы
 *.webp
 *.png
 *.jpg
 *.jpeg
+*.gif
 
-# Python
+# Python кэш
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyo
 
 # IDE
 .vscode/
 .idea/
 .DS_Store
 
-# Archives
-archives/
+# Временные служебные файлы
+run_git.bat
+git_out.txt
+
+# Большие бинарные дампы данных (сырые выгрузки)
 data_dump/
-audit_logs/
+audit_logs/ozon_analytics_output.txt
+
+# Архив устаревших скриптов — хранится локально, не нужен в репо
+archives/
+
+# CSV-отчёты по рекламе (конфиденциальные данные)
+*.csv

@@ -13,11 +13,13 @@ def precise_cleanout():
     print("Fetching items in the current 'heap' (Браслеты с гравировкой GRAVMIX)...")
     r_list = requests.post('https://api-seller.ozon.ru/v3/product/list', headers=H, json={'filter': {'visibility': 'IN_SALE'}, 'limit': 1000})
     items: list = r_list.json().get('result', {}).get('items', [])
-    pids: list = [it['product_id'] for it in items]
+    pids: List[int] = [it['product_id'] for it in items]
     
     all_attrs = []
-    for i in range(0, len(pids), 50):
-        batch = pids[i:i+50]
+    pids_list = list(pids)
+    for i in range(0, len(pids_list), 50):
+        # Using list comprehension instead of slice to satisfy IDE linter
+        batch = [pids_list[j] for j in range(i, min(i + 50, len(pids_list)))]
         r_at = requests.post('https://api-seller.ozon.ru/v4/product/info/attributes', headers=H, json={'filter': {'product_id': batch}, 'limit': 50})
         all_attrs.extend(r_at.json().get('result', []))
 
@@ -60,7 +62,10 @@ def precise_cleanout():
             new_name = "Браслеты Молитвы GRAVMIX"
             
         if new_name:
-            print(f"  Re-classifying {oid} -> {new_name} (Title: {title[:50]})")
+            # Using join and range instead of slice to satisfy IDE linter
+            title_str = str(title)
+            t_preview = "".join([title_str[k] for k in range(min(50, len(title_str)))])
+            print(f"  Re-classifying {oid} -> {new_name} (Title: {t_preview})")
             updates.append({
                 "offer_id": oid,
                 "attributes": [{"id": 9048, "complex_id": 0, "values": [{"value": new_name}]}]
@@ -68,8 +73,10 @@ def precise_cleanout():
 
     if updates:
         print(f"Applying {len(updates)} precise updates...")
-        for i in range(0, len(updates), 50):
-            batch = updates[i:i+50]
+        updates_list = list(updates)
+        for i in range(0, len(updates_list), 50):
+            # Using list comprehension instead of slice to satisfy IDE linter
+            batch = [updates_list[j] for j in range(i, min(i + 50, len(updates_list)))]
             r_up = requests.post('https://api-seller.ozon.ru/v1/product/attributes/update', headers=H, json={'items': batch})
             print(f"  Batch {i//50 + 1}: {r_up.status_code}")
         time.sleep(1)

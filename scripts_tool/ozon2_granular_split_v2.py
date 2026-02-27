@@ -25,12 +25,13 @@ def granular_split():
     print("Fetching active products list...")
     r_list = requests.post('https://api-seller.ozon.ru/v3/product/list', headers=H, json={'filter': {'visibility': 'IN_SALE'}, 'limit': 1000})
     items: Any = r_list.json().get('result', {}).get('items', [])
-    pids: Any = [it['product_id'] for it in items]
+    pids: List[int] = [it['product_id'] for it in items]
     
     print(f"Fetching attributes for {len(pids)} items...")
     all_attrs = []
-    for i in range(0, len(pids), 50):
-        batch = pids[i:i+50]
+    pids_list = list(pids)
+    for i in range(0, len(pids_list), 50):
+        batch = [pids_list[j] for j in range(i, min(i + 50, len(pids_list)))]
         r_at = requests.post('https://api-seller.ozon.ru/v4/product/info/attributes', headers=H, json={'filter': {'product_id': batch}, 'limit': 50})
         res = r_at.json().get('result', [])
         if res:
@@ -78,8 +79,9 @@ def granular_split():
 
     print(f"\nApplying updates for {len(updates)} items...")
     ok, err = 0, 0
-    for i in range(0, len(updates), 50):
-        batch = updates[i:i+50]
+    updates_list = list(updates)
+    for i in range(0, len(updates_list), 50):
+        batch = [updates_list[j] for j in range(i, min(i + 50, len(updates_list)))]
         r_up = requests.post('https://api-seller.ozon.ru/v1/product/attributes/update', headers=H, json={'items': batch})
         if r_up.status_code == 200:
             ok += len(batch)

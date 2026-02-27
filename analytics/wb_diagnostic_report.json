@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-02-27T11:07:41.451785",
+  "summary": {
+    "total_cards": 0,
+    "incomplete_cards": 0,
+    "total_sales_records": 1703,
+    "total_orders": 2243,
+    "zero_stock_items": 190
+  },
+  "monthly_sales": {
+    "2025-08": {
+      "quantity": 0,
+      "revenue": 778,
+      "orders": 1
+    },
+    "2025-09": {
+      "quantity": 0,
+      "revenue": 114203.34,
+      "orders": 174
+    },
+    "2025-10": {
+      "quantity": 0,
+      "revenue": 128753.18000000001,
+      "orders": 188
+    },
+    "2025-11": {
+      "quantity": 0,
+      "revenue": 185203.15999999997,
+      "orders": 270
+    },
+    "2025-12": {
+      "quantity": 0,
+      "revenue": 355210.06999999995,
+      "orders": 533
+    },
+    "2026-01": {
+      "quantity": 0,
+      "revenue": 176800.09000000003,
+      "orders": 274
+    },
+    "2026-02": {
+      "quantity": 0,
+      "revenue": 164940.92999999996,
+      "orders": 263
+    }
+  },
+  "february_comparison": {
+    "2025": {
+      "quantity": 0,
+      "revenue": 0
+    },
+    "2026": {
+      "quantity": 0,
+      "revenue": 164940.92999999996,
+      "orders": 263
+    },
+    "change_percent": {
+      "quantity": null,
+      "revenue": null
+    }
+  },
+  "incomplete_cards": [],
+  "issues_detected": [
+    "КРИТИЧНО: >30% товаров с нулевым остатком"
+  ]
+}

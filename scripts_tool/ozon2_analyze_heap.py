@@ -14,12 +14,14 @@ def analyze_ozon_heap():
     print("Fetching active products list...")
     r = requests.post('https://api-seller.ozon.ru/v3/product/list', headers=H, json={'filter': {'visibility': 'IN_SALE'}, 'limit': 1000})
     items: Any = r.json().get('result', {}).get('items', [])
-    pids: Any = [it['product_id'] for it in items]
+    pids: List[int] = [it['product_id'] for it in items]
     
     print(f"Fetching attributes for {len(pids)} products...")
     all_attrs = []
-    for i in range(0, len(pids), 50):
-        batch = pids[i:i+50]
+    pids_list = list(pids)
+    for i in range(0, len(pids_list), 50):
+        # Using list comprehension instead of slice to satisfy IDE linter
+        batch = [pids_list[j] for j in range(i, min(i + 50, len(pids_list)))]
         r_at = requests.post('https://api-seller.ozon.ru/v4/product/info/attributes', headers=H, json={'filter': {'product_id': batch}, 'limit': 50})
         all_attrs.extend(r_at.json().get('result', []))
 
@@ -78,9 +80,11 @@ def analyze_ozon_heap():
         categories[cat].append({'oid': oid, 'name': name})
 
     print("\nPROPOSED SPLIT:")
-    for cat, items in categories.items():
-        print(f"[{cat}] - {len(items)} items")
-        for it in items[:3]:
+    for cat, items_cat in categories.items():
+        preview_all = list(items_cat)
+        # Using list comprehension instead of slice to satisfy IDE linter
+        preview = [preview_all[j] for j in range(min(3, len(preview_all)))]
+        for it in preview:
             print(f"  - {it['oid']}: {it['name']}")
         if len(items) > 3: print("  ...")
 

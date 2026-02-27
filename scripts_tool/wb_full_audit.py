@@ -1,178 +1,64 @@
-# -*- coding: utf-8 -*-
-"""
-WB Full Cabinet Audit — comprehensive analysis of all 266 cards
-Checks: descriptions, characteristics, photos, titles, SEO keywords
-"""
-import json, re, os
+import requests
+import json
+import os
 
-with open('wb_cards_seo_dump.json', 'r', encoding='utf-8') as f:
-    cards = json.load(f)
+BASE_DIR = r'C:\Users\GravMix\.gemini\antigravity\playground\core-pulsar'
+ENV_PATH = os.path.join(BASE_DIR, '.env')
 
-print(f"=== WB FULL AUDIT: {len(cards)} cards ===\n")
+WB_KEY = ''
+if os.path.exists(ENV_PATH):
+    with open(ENV_PATH, 'r', encoding='utf-8') as f:
+        for line in f:
+            if line.startswith('WB_API_KEY='):
+                WB_KEY = line.strip().split('=', 1)[1]
+                break
 
-# Counters
-issues = {
-    'no_desc': [], 'short_desc': [], 'long_desc': [],
-    'no_photos': [], 'few_photos': [],
-    'short_title': [], 'long_title': [],
-    'few_chars': [], 'missing_brand': [],
-    'no_dimensions': [], 'no_composition': [],
-    'duplicate_titles': {},
-}
+headers = {'Authorization': WB_KEY, 'Content-Type': 'application/json'}
 
-total_desc_len = 0
-total_photo_count = 0
-total_char_count = 0
-char_names_all = {}
-
-for c in cards:
-    nmID = c.get('nmID', 0)
-    title = c.get('title', '')
-    desc = c.get('description', '')
-    photos = c.get('photos', [])
-    chars = c.get('characteristics', [])
-    brand = c.get('brand', '')
-    vc = c.get('vendorCode', '')
+def full_audit():
+    print("=== STARTING FULL CATALOG AUDIT ===")
     
-    dlen = len(desc)
-    total_desc_len += dlen
-    total_photo_count += len(photos)
-    total_char_count += len(chars)
-    
-    # Track characteristic names
-    for ch in chars:
-        for key in ch:
-            char_names_all[key] = char_names_all.get(key, 0) + 1
-    
-    # Description checks
-    if dlen == 0:
-        issues['no_desc'].append({'nmID': nmID, 'vc': vc, 'title': title[:50]})
-    elif dlen < 500:
-        issues['short_desc'].append({'nmID': nmID, 'vc': vc, 'title': title[:50], 'len': dlen})
-    elif dlen > 2000:
-        issues['long_desc'].append({'nmID': nmID, 'vc': vc, 'title': title[:50], 'len': dlen})
-    
-    # Photo checks
-    if len(photos) == 0:
-        issues['no_photos'].append({'nmID': nmID, 'vc': vc, 'title': title[:50]})
-    elif len(photos) < 3:
-        issues['few_photos'].append({'nmID': nmID, 'vc': vc, 'title': title[:50], 'count': len(photos)})
-    
-    # Title checks
-    if len(title) < 30:
-        issues['short_title'].append({'nmID': nmID, 'vc': vc, 'title': title, 'len': len(title)})
-    elif len(title) > 100:
-        issues['long_title'].append({'nmID': nmID, 'vc': vc, 'title': title[:60], 'len': len(title)})
-    
-    # Characteristics check
-    if len(chars) < 5:
-        issues['few_chars'].append({'nmID': nmID, 'vc': vc, 'title': title[:50], 'count': len(chars)})
-    
-    # Brand check
-    if not brand:
-        issues['missing_brand'].append({'nmID': nmID, 'vc': vc, 'title': title[:50]})
-    
-    # Duplicate title tracking
-    title_key = title.strip().lower()
-    if title_key not in issues['duplicate_titles']:
-        issues['duplicate_titles'][title_key] = []
-    issues['duplicate_titles'][title_key].append(nmID)
+    # 1. Active Cards (POST /content/v2/get/cards/list)
+    print("\n1. Fetching ALL Active Cards...")
+    all_active = []
+    cursor = {"limit": 100}
+    while True:
+        payload = {"settings": {"cursor": cursor}}
+        r = requests.post('https://content-api.wildberries.ru/content/v2/get/cards/list', headers=headers, json=payload)
+        if r.status_code != 200: break
+        data = r.json()
+        cards = data.get('cards', [])
+        all_active.extend(cards)
+        cursor = data.get('cursor', {})
+        if not cursor.get('nmID') or len(cards) < 100: break
+    print(f"Total Active Cards in API: {len(all_active)}")
 
-# Find actual duplicates
-duplicates = {k: v for k, v in issues['duplicate_titles'].items() if len(v) > 1}
+    # 2. Error List (POST /content/v2/cards/error/list)
+    print("\n2. Checking Error List (Drafts)...")
+    payload = {"settings": {"cursor": {"limit": 100}}}
+    r = requests.post('https://content-api.wildberries.ru/content/v2/cards/error/list', headers=headers, json=payload)
+    if r.status_code == 200:
+        errors = r.json().get('data', {}).get('cards', [])
+        print(f"Total Errors (Drafts) in API: {len(errors)}")
+        for e in errors[:10]:
+            print(f"- {e.get('vendorCode')}: {e.get('errors')}")
+    else:
+        print(f"Error fetching errors: {r.status_code}")
 
-# Print report
-print("=" * 60)
-print("1. ОПИСАНИЯ (DESCRIPTION)")
-print("=" * 60)
-avg_desc = total_desc_len / max(1, len(cards))
-print(f"  Средняя длина: {avg_desc:.0f} символов")
-print(f"  Без описания: {len(issues['no_desc'])}")
-print(f"  Короткие (<500): {len(issues['short_desc'])}")
-print(f"  Нормальные (500-2000): {len(cards) - len(issues['no_desc']) - len(issues['short_desc']) - len(issues['long_desc'])}")
-print(f"  Длинные (>2000): {len(issues['long_desc'])}")
-if issues['short_desc']:
-    print("\n  Короткие описания:")
-    for s in issues['short_desc'][:10]:
-        print(f"    [{s['vc']}] {s['title']} — {s['len']} симв.")
+    # 3. Buffer (GET /content/v2/buffer/goods/task)
+    print("\n3. Checking Processing Buffer...")
+    r = requests.get('https://content-api.wildberries.ru/content/v2/buffer/goods/task', headers=headers)
+    if r.status_code == 200:
+        buffer = r.json().get('data', [])
+        print(f"Items in Processing Buffer: {len(buffer)}")
+        for b in buffer[:5]:
+            print(f"- Task: {b.get('taskId')}, Status: {b.get('status')}")
 
-print(f"\n{'=' * 60}")
-print("2. ФОТОГРАФИИ")
-print("=" * 60)
-avg_photos = total_photo_count / max(1, len(cards))
-print(f"  Среднее кол-во фото: {avg_photos:.1f}")
-print(f"  Без фото: {len(issues['no_photos'])}")
-print(f"  Мало фото (<3): {len(issues['few_photos'])}")
-if issues['few_photos']:
-    print("\n  Карточки с <3 фото:")
-    for p in issues['few_photos'][:10]:
-        print(f"    [{p['vc']}] {p['title']} — {p['count']} фото")
+    # 4. Check for _v3 specifically
+    v3_count = len([c for c in all_active if str(c.get('vendorCode', '')).endswith('_v3')])
+    print(f"\n_v3 Cards already Active: {v3_count}")
 
-print(f"\n{'=' * 60}")
-print("3. НАЗВАНИЯ (TITLE)")
-print("=" * 60)
-print(f"  Короткие (<30 симв): {len(issues['short_title'])}")
-print(f"  Длинные (>100 симв): {len(issues['long_title'])}")
-print(f"  Дубли названий: {len(duplicates)} групп ({sum(len(v) for v in duplicates.values())} карточек)")
-if issues['short_title']:
-    print("\n  Короткие названия:")
-    for t in issues['short_title'][:10]:
-        print(f"    [{t['vc']}] \"{t['title']}\" — {t['len']} симв.")
+    print("\n=== AUDIT COMPLETE ===")
 
-print(f"\n{'=' * 60}")
-print("4. ХАРАКТЕРИСТИКИ")
-print("=" * 60)
-avg_chars = total_char_count / max(1, len(cards))
-print(f"  Среднее кол-во характеристик: {avg_chars:.1f}")
-print(f"  Мало характеристик (<5): {len(issues['few_chars'])}")
-print(f"\n  Заполняемость характеристик (ТОП-20):")
-sorted_chars = sorted(char_names_all.items(), key=lambda x: -x[1])
-for name, count in sorted_chars[:20]:
-    pct = count / len(cards) * 100
-    print(f"    {name}: {count}/{len(cards)} ({pct:.0f}%)")
-
-print(f"\n{'=' * 60}")
-print("5. БРЕНД")
-print("=" * 60)
-print(f"  Без бренда: {len(issues['missing_brand'])}")
-
-# Save detailed report
-report = {
-    'total_cards': len(cards),
-    'avg_desc_len': round(avg_desc),
-    'avg_photos': round(avg_photos, 1),
-    'avg_chars': round(avg_chars, 1),
-    'issues': {
-        'no_desc': len(issues['no_desc']),
-        'short_desc': len(issues['short_desc']),
-        'few_photos': len(issues['few_photos']),
-        'short_title': len(issues['short_title']),
-        'duplicate_titles': len(duplicates),
-        'few_chars': len(issues['few_chars']),
-        'missing_brand': len(issues['missing_brand'])
-    },
-    'short_desc_list': issues['short_desc'],
-    'few_photos_list': issues['few_photos'],
-    'short_title_list': issues['short_title'],
-    'duplicate_title_groups': {k: v for k, v in duplicates.items()},
-}
-
-with open('wb_full_audit_report.json', 'w', encoding='utf-8') as f:
-    json.dump(report, f, ensure_ascii=False, indent=2)
-
-print(f"\nFull report saved to wb_full_audit_report.json")
-
-# Summary
-print(f"\n{'=' * 60}")
-print("ИТОГО: ТОЧКИ РОСТА")
-print("=" * 60)
-total_issues = (len(issues['short_desc']) + len(issues['few_photos']) + 
-                len(issues['short_title']) + len(duplicates))
-print(f"  Критичных проблем: {total_issues}")
-print(f"  1. Расширить {len(issues['short_desc'])} коротких описаний до 1000+ символов")
-if issues['few_photos']:
-    print(f"  2. Добавить фото к {len(issues['few_photos'])} карточкам (нужно минимум 3)")
-if issues['short_title']:
-    print(f"  3. Удлинить {len(issues['short_title'])} коротких названий (SEO-ключевые слова)")
-if duplicates:
-    print(f"  4. Уникализировать {len(duplicates)} групп с одинаковыми названиями")
+if __name__ == "__main__":
+    full_audit()

@@ -1,0 +1,6002 @@
+[
+  {
+    "subjectID": 2560,
+    "parentID": 8995,
+    "subjectName": "3D очки",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 1152,
+    "parentID": 858,
+    "subjectName": "3D-принтеры",
+    "parentName": "Оргтехника"
+  },
+  {
+    "subjectID": 1151,
+    "parentID": 8995,
+    "subjectName": "3D-ручки",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 7771,
+    "parentID": 760,
+    "subjectName": "AKF системы",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 4034,
+    "parentID": 6260,
+    "subjectName": "AV-ресиверы",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 1928,
+    "parentID": 49,
+    "subjectName": "BB-кремы",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 4035,
+    "parentID": 6260,
+    "subjectName": "Blu-Ray проигрыватели",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 1927,
+    "parentID": 49,
+    "subjectName": "CC-кремы",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 4036,
+    "parentID": 8995,
+    "subjectName": "CD проигрыватели",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 3454,
+    "parentID": 49,
+    "subjectName": "DD-кремы",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 4018,
+    "parentID": 6260,
+    "subjectName": "DJ контроллеры",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 2808,
+    "parentID": 6260,
+    "subjectName": "DVD-плееры",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 1001,
+    "parentID": 6237,
+    "subjectName": "Flash-накопители",
+    "parentName": "Периферия и аксессуары"
+  },
+  {
+    "subjectID": 764,
+    "parentID": 6240,
+    "subjectName": "FM-трансмиттеры",
+    "parentName": "Автоэлектроника"
+  },
+  {
+    "subjectID": 5926,
+    "parentID": 8995,
+    "subjectName": "GPS-трекеры",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6241,
+    "parentID": 6260,
+    "subjectName": "Hi-Fi плееры",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 3468,
+    "parentID": 1081,
+    "subjectName": "L-карнитины",
+    "parentName": "Спортивное питание и косметика"
+  },
+  {
+    "subjectID": 5541,
+    "parentID": 6257,
+    "subjectName": "Mesh системы",
+    "parentName": "Сетевое оборудование"
+  },
+  {
+    "subjectID": 5847,
+    "parentID": 3324,
+    "subjectName": "MIDI-контроллеры",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 1313,
+    "parentID": 6260,
+    "subjectName": "MP3 плееры",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 4031,
+    "parentID": 8995,
+    "subjectName": "NFC-браслеты",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 5669,
+    "parentID": 8995,
+    "subjectName": "NFC брелоки",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6016,
+    "parentID": 8995,
+    "subjectName": "NFC карты",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6456,
+    "parentID": 8995,
+    "subjectName": "NFC кольца",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6017,
+    "parentID": 8995,
+    "subjectName": "NFC наклейки",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 3173,
+    "parentID": 1162,
+    "subjectName": "pH метры",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 4398,
+    "parentID": 6257,
+    "subjectName": "PoE инжекторы",
+    "parentName": "Сетевое оборудование"
+  },
+  {
+    "subjectID": 5319,
+    "parentID": 6257,
+    "subjectName": "Powerline адаптеры",
+    "parentName": "Сетевое оборудование"
+  },
+  {
+    "subjectID": 5836,
+    "parentID": 9081,
+    "subjectName": "RGBW усилители",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 1258,
+    "parentID": 6258,
+    "subjectName": "Sim карты",
+    "parentName": "Смартфоны и гаджеты"
+  },
+  {
+    "subjectID": 2187,
+    "parentID": 8995,
+    "subjectName": "USB-инжекторы",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 1378,
+    "parentID": 6237,
+    "subjectName": "Web-камеры",
+    "parentName": "Периферия и аксессуары"
+  },
+  {
+    "subjectID": 2796,
+    "parentID": 6257,
+    "subjectName": "Wi-Fi-адаптеры",
+    "parentName": "Сетевое оборудование"
+  },
+  {
+    "subjectID": 1262,
+    "parentID": 8694,
+    "subjectName": "Абажуры",
+    "parentName": "Освещение"
+  },
+  {
+    "subjectID": 6522,
+    "parentID": 1162,
+    "subjectName": "Абразивы для пескоструйных работ",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 6695,
+    "parentID": 4268,
+    "subjectName": "Абсорбент углекислого газа",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 8109,
+    "parentID": 8891,
+    "subjectName": "Аварийное оборудование",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 8495,
+    "parentID": 9081,
+    "subjectName": "Аварийное освещение",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 5277,
+    "parentID": 8891,
+    "subjectName": "Автобаферы",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 3213,
+    "parentID": 723,
+    "subjectName": "Автобоксы для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 521,
+    "parentID": 49,
+    "subjectName": "Автозагар",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1550,
+    "parentID": 8891,
+    "subjectName": "Автоиконы",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 5027,
+    "parentID": 1521,
+    "subjectName": "Автоклавы для консервирования",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 486,
+    "parentID": 883,
+    "subjectName": "Автокресла детские",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 1587,
+    "parentID": 8891,
+    "subjectName": "Автокружки",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 7622,
+    "parentID": 6259,
+    "subjectName": "Автоматика для ворот",
+    "parentName": "Умный дом и безопасность"
+  },
+  {
+    "subjectID": 5221,
+    "parentID": 2479,
+    "subjectName": "Автоматы торговые механические",
+    "parentName": "Мебель офисная и торговое оборудование"
+  },
+  {
+    "subjectID": 9095,
+    "parentID": 6240,
+    "subjectName": "Автомобильная громкая связь",
+    "parentName": "Автоэлектроника"
+  },
+  {
+    "subjectID": 2929,
+    "parentID": 8891,
+    "subjectName": "Автомобильные антенны",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 964,
+    "parentID": 8891,
+    "subjectName": "Автомобильные аптечки",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 1346,
+    "parentID": 8896,
+    "subjectName": "Автомобильные ароматизаторы",
+    "parentName": "Автохимия и автокосметика"
+  },
+  {
+    "subjectID": 1889,
+    "parentID": 6240,
+    "subjectName": "Автомобильные зарядные устройства",
+    "parentName": "Автоэлектроника"
+  },
+  {
+    "subjectID": 7913,
+    "parentID": 760,
+    "subjectName": "Автомобильные уплотнительные кольца",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 8146,
+    "parentID": 8891,
+    "subjectName": "Автономные отопители",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 934,
+    "parentID": 8891,
+    "subjectName": "Автоодеяла",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 7505,
+    "parentID": 239,
+    "subjectName": "Автопилоты для прикормочных корабликов",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5891,
+    "parentID": 239,
+    "subjectName": "Автоподсекатели для удочек",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 410,
+    "parentID": 739,
+    "subjectName": "Автопятки",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 4210,
+    "parentID": 8891,
+    "subjectName": "Автосканеры",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 2620,
+    "parentID": 7,
+    "subjectName": "Автотреки",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 802,
+    "parentID": 8896,
+    "subjectName": "Автохимия",
+    "parentName": "Автохимия и автокосметика"
+  },
+  {
+    "subjectID": 2132,
+    "parentID": 8891,
+    "subjectName": "Автохолодильники",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 9110,
+    "parentID": 6943,
+    "subjectName": "Агрохимикаты",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 526,
+    "parentID": 8995,
+    "subjectName": "Адаптеры",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 4419,
+    "parentID": 239,
+    "subjectName": "Адаптеры велосипедные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3471,
+    "parentID": 723,
+    "subjectName": "Адаптеры для автокормушек",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 4455,
+    "parentID": 239,
+    "subjectName": "Адаптеры для тормозной системы",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5853,
+    "parentID": 1162,
+    "subjectName": "Адаптеры для трещоток",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 3836,
+    "parentID": 8891,
+    "subjectName": "Адаптеры для щеток стеклоочистителя",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 2426,
+    "parentID": 6943,
+    "subjectName": "Адресные таблички",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 6747,
+    "parentID": 3109,
+    "subjectName": "Айран",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 482,
+    "parentID": 239,
+    "subjectName": "Аквадиски",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2158,
+    "parentID": 3497,
+    "subjectName": "Акваноски",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 3485,
+    "parentID": 723,
+    "subjectName": "Аквариумные наборы",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 495,
+    "parentID": 723,
+    "subjectName": "Аквариумы",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 407,
+    "parentID": 3497,
+    "subjectName": "Аквасоки",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 6570,
+    "parentID": 3324,
+    "subjectName": "Аккордеоны",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 9109,
+    "parentID": 8995,
+    "subjectName": "Аккумуляторные элементы питания",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 5819,
+    "parentID": 8894,
+    "subjectName": "Аккумуляторы для автомобилей",
+    "parentName": "Аккумуляторы для ТС"
+  },
+  {
+    "subjectID": 5953,
+    "parentID": 8891,
+    "subjectName": "Аккумуляторы для автомобильного ключа",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 4828,
+    "parentID": 1605,
+    "subjectName": "Аккумуляторы для велосипедных фонарей",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 2196,
+    "parentID": 858,
+    "subjectName": "Аккумуляторы для ИБП",
+    "parentName": "Оргтехника"
+  },
+  {
+    "subjectID": 542,
+    "parentID": 6261,
+    "subjectName": "Аккумуляторы для камер",
+    "parentName": "Фото и Видеотехника"
+  },
+  {
+    "subjectID": 1977,
+    "parentID": 8995,
+    "subjectName": "Аккумуляторы для квадрокоптеров",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6810,
+    "parentID": 1605,
+    "subjectName": "Аккумуляторы для лодок",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 1309,
+    "parentID": 8995,
+    "subjectName": "Аккумуляторы для мобильных телефонов",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 4129,
+    "parentID": 8894,
+    "subjectName": "Аккумуляторы для мотоциклов",
+    "parentName": "Аккумуляторы для ТС"
+  },
+  {
+    "subjectID": 3125,
+    "parentID": 6238,
+    "subjectName": "Аккумуляторы для ноутбуков",
+    "parentName": "Ноутбуки и компьютеры"
+  },
+  {
+    "subjectID": 5395,
+    "parentID": 8995,
+    "subjectName": "Аккумуляторы для радиостанций",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6792,
+    "parentID": 8995,
+    "subjectName": "Аккумуляторы для радиоуправляемых игрушек",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 7227,
+    "parentID": 2240,
+    "subjectName": "Аккумуляторы для садовой техники",
+    "parentName": "Садовая техника"
+  },
+  {
+    "subjectID": 7559,
+    "parentID": 8995,
+    "subjectName": "Аккумуляторы для смарт-часов",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 5742,
+    "parentID": 6261,
+    "subjectName": "Аккумуляторы для фотоаппаратов",
+    "parentName": "Фото и Видеотехника"
+  },
+  {
+    "subjectID": 3126,
+    "parentID": 8751,
+    "subjectName": "Аккумуляторы для электроинструмента",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 706,
+    "parentID": 239,
+    "subjectName": "Аккумуляторы температуры",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7428,
+    "parentID": 1284,
+    "subjectName": "Акриловая смола для творчества",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 2134,
+    "parentID": 49,
+    "subjectName": "Акриловые пудры",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1324,
+    "parentID": 883,
+    "subjectName": "Аксессуары в коляску",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 4317,
+    "parentID": 8891,
+    "subjectName": "Аксессуары для автокресел",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 5481,
+    "parentID": 8891,
+    "subjectName": "Аксессуары для автоприцепов",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 6459,
+    "parentID": 239,
+    "subjectName": "Аксессуары для альпинизма и скалолазания",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4058,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для аэрогрилей",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 7210,
+    "parentID": 6945,
+    "subjectName": "Аксессуары для банных печей",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 7219,
+    "parentID": 6945,
+    "subjectName": "Аксессуары для бассейна",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 2825,
+    "parentID": 200,
+    "subjectName": "Аксессуары для бижутерии",
+    "parentName": "Бижутерия"
+  },
+  {
+    "subjectID": 1405,
+    "parentID": 239,
+    "subjectName": "Аксессуары для бильярда",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7055,
+    "parentID": 6945,
+    "subjectName": "Аксессуары для биотуалетов",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 6464,
+    "parentID": 239,
+    "subjectName": "Аксессуары для велосипедов",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4871,
+    "parentID": 1605,
+    "subjectName": "Аксессуары для велостанков",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 7567,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для виртуальных очков",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 4383,
+    "parentID": 257,
+    "subjectName": "Аксессуары для воздушных шаров",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 7049,
+    "parentID": 6945,
+    "subjectName": "Аксессуары для газовых грилей",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 4026,
+    "parentID": 239,
+    "subjectName": "Аксессуары для газовых ламп",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4030,
+    "parentID": 6256,
+    "subjectName": "Аксессуары для геймпадов",
+    "parentName": "Игровые консоли и игры"
+  },
+  {
+    "subjectID": 6400,
+    "parentID": 1605,
+    "subjectName": "Аксессуары для дайвинга",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 4125,
+    "parentID": 883,
+    "subjectName": "Аксессуары для детских горшков",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 6501,
+    "parentID": 883,
+    "subjectName": "Аксессуары для детской мебели",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 6322,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для духовок",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 8540,
+    "parentID": 723,
+    "subjectName": "Аксессуары для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 7235,
+    "parentID": 2240,
+    "subjectName": "Аксессуары для заправки и замены масла",
+    "parentName": "Садовая техника"
+  },
+  {
+    "subjectID": 7732,
+    "parentID": 5038,
+    "subjectName": "Аксессуары для игрушек эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 2037,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для квадрокоптеров",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 4995,
+    "parentID": 49,
+    "subjectName": "Аксессуары для клея",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1774,
+    "parentID": 1590,
+    "subjectName": "Аксессуары для коктейлей",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 5644,
+    "parentID": 1162,
+    "subjectName": "Аксессуары для компрессоров",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 4308,
+    "parentID": 257,
+    "subjectName": "Аксессуары для конкурсов",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 861,
+    "parentID": 239,
+    "subjectName": "Аксессуары для коньков",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 8528,
+    "parentID": 723,
+    "subjectName": "Аксессуары для конюшни",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 2467,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для косметических аппаратов",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6544,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для котлов отопления",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 77,
+    "parentID": 7,
+    "subjectName": "Аксессуары для кукол",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 7536,
+    "parentID": 1162,
+    "subjectName": "Аксессуары для лестниц",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 6343,
+    "parentID": 239,
+    "subjectName": "Аксессуары для лодок",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4239,
+    "parentID": 4268,
+    "subjectName": "Аксессуары для массажеров",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 6271,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для микрофонов",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 5422,
+    "parentID": 883,
+    "subjectName": "Аксессуары для молокоотсосов",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 7153,
+    "parentID": 2240,
+    "subjectName": "Аксессуары для мотобуров",
+    "parentName": "Садовая техника"
+  },
+  {
+    "subjectID": 8601,
+    "parentID": 6731,
+    "subjectName": "Аксессуары для мотоэкипировки",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 6812,
+    "parentID": 3324,
+    "subjectName": "Аксессуары для музыкальных инструментов",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 4477,
+    "parentID": 1521,
+    "subjectName": "Аксессуары для мультиварок",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 6329,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для мясорубок",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 2918,
+    "parentID": 7,
+    "subjectName": "Аксессуары для настольных игр",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 8503,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для обогревателей",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 1843,
+    "parentID": 6945,
+    "subjectName": "Аксессуары для обустройства бани",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 2957,
+    "parentID": 49,
+    "subjectName": "Аксессуары для окрашивания волос",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 5517,
+    "parentID": 239,
+    "subjectName": "Аксессуары для оружия",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2713,
+    "parentID": 7,
+    "subjectName": "Аксессуары для пазлов",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 8754,
+    "parentID": 49,
+    "subjectName": "Аксессуары для парикмахеров",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 2589,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для паровых станций",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 2164,
+    "parentID": 239,
+    "subjectName": "Аксессуары для пилатес",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4979,
+    "parentID": 1605,
+    "subjectName": "Аксессуары для подводной охоты",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 3971,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для проигрывателей",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 7176,
+    "parentID": 6943,
+    "subjectName": "Аксессуары для пруда",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 1736,
+    "parentID": 1284,
+    "subjectName": "Аксессуары для рукоделия",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 6902,
+    "parentID": 6945,
+    "subjectName": "Аксессуары для садовой мебели",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 6889,
+    "parentID": 6945,
+    "subjectName": "Аксессуары для тандыров",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 4292,
+    "parentID": 1521,
+    "subjectName": "Аксессуары для тостеров",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 2174,
+    "parentID": 239,
+    "subjectName": "Аксессуары для тренажеров",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2172,
+    "parentID": 239,
+    "subjectName": "Аксессуары для тяжелой атлетики",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1275,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для увлажнителей и очистителей",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 8541,
+    "parentID": 8695,
+    "subjectName": "Аксессуары для фоторамок",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 3947,
+    "parentID": 257,
+    "subjectName": "Аксессуары для фотосессий",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 6331,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для хлебопечек",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 7224,
+    "parentID": 6945,
+    "subjectName": "Аксессуары для хранения дров",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 6214,
+    "parentID": 1616,
+    "subjectName": "Аксессуары для штор",
+    "parentName": "Шторы и аксессуары"
+  },
+  {
+    "subjectID": 547,
+    "parentID": 6261,
+    "subjectName": "Аксессуары для экшн-камер",
+    "parentName": "Фото и Видеотехника"
+  },
+  {
+    "subjectID": 6198,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для электробритв",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 4190,
+    "parentID": 8995,
+    "subjectName": "Аксессуары для электрогрилей",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 1297,
+    "parentID": 8995,
+    "subjectName": "Аксессуары и запчасти для кофемашин и кофеварок",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6012,
+    "parentID": 2240,
+    "subjectName": "Аксессуары и запчасти для моек высокого давления",
+    "parentName": "Садовая техника"
+  },
+  {
+    "subjectID": 5500,
+    "parentID": 8995,
+    "subjectName": "Аксессуары и запчасти для посудомоечных машин",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 9071,
+    "parentID": 6731,
+    "subjectName": "Аксессуары и комплектующие для яхт",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 4722,
+    "parentID": 883,
+    "subjectName": "Аксессуары к стульчикам для кормления",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 3885,
+    "parentID": 257,
+    "subjectName": "Активаторы для слаймов",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 4166,
+    "parentID": 49,
+    "subjectName": "Активаторы клея для ресниц",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 9064,
+    "parentID": 9081,
+    "subjectName": "Акустика для микроэлектроники",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 763,
+    "parentID": 8891,
+    "subjectName": "Алкотестеры",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 6422,
+    "parentID": 1284,
+    "subjectName": "Алмазная мозаика",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 3194,
+    "parentID": 571,
+    "subjectName": "Альбомы для коллекционирования",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 719,
+    "parentID": 571,
+    "subjectName": "Альбомы для творчества",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 6694,
+    "parentID": 239,
+    "subjectName": "Альпинистские каски",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6392,
+    "parentID": 239,
+    "subjectName": "Альпинистские кошки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3001,
+    "parentID": 8995,
+    "subjectName": "Амбушюры",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 1095,
+    "parentID": 1081,
+    "subjectName": "Аминокислоты",
+    "parentName": "Спортивное питание и косметика"
+  },
+  {
+    "subjectID": 5818,
+    "parentID": 760,
+    "subjectName": "Амортизаторы автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 8622,
+    "parentID": 6731,
+    "subjectName": "Амортизаторы для мототехники",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 4761,
+    "parentID": 239,
+    "subjectName": "Амортизаторы задние",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2368,
+    "parentID": 8891,
+    "subjectName": "Амортизаторы кузовные",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 6819,
+    "parentID": 723,
+    "subjectName": "Амортизаторы под седло",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 3596,
+    "parentID": 4268,
+    "subjectName": "Анализаторы медицинские",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 7286,
+    "parentID": 8995,
+    "subjectName": "Анализаторы состава тела",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 5065,
+    "parentID": 5038,
+    "subjectName": "Анальные бусы",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5193,
+    "parentID": 5038,
+    "subjectName": "Анальные груши",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5068,
+    "parentID": 5038,
+    "subjectName": "Анальные крюки",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5064,
+    "parentID": 5038,
+    "subjectName": "Анальные пробки",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5066,
+    "parentID": 5038,
+    "subjectName": "Анальные шарики",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 4570,
+    "parentID": 571,
+    "subjectName": "Анатомические модели",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 3660,
+    "parentID": 1162,
+    "subjectName": "Анемометры",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 7691,
+    "parentID": 2051,
+    "subjectName": "Анемостаты",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 5419,
+    "parentID": 2050,
+    "subjectName": "Анкеры",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 1791,
+    "parentID": 1,
+    "subjectName": "Анораки",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 4628,
+    "parentID": 4607,
+    "subjectName": "Анораки для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 8386,
+    "parentID": 8995,
+    "subjectName": "Антенны для радиостанций",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 1650,
+    "parentID": 8995,
+    "subjectName": "Антенны телевизионные",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6348,
+    "parentID": 4268,
+    "subjectName": "Антибактериальные терапевтические приборы",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 8677,
+    "parentID": 8671,
+    "subjectName": "Антибиотики для животных",
+    "parentName": "Ветаптека"
+  },
+  {
+    "subjectID": 8394,
+    "parentID": 8896,
+    "subjectName": "Антидождь",
+    "parentName": "Автохимия и автокосметика"
+  },
+  {
+    "subjectID": 543,
+    "parentID": 8995,
+    "subjectName": "Антизапотевающие вставки",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 3470,
+    "parentID": 1081,
+    "subjectName": "Антиоксиданты",
+    "parentName": "Спортивное питание и косметика"
+  },
+  {
+    "subjectID": 8684,
+    "parentID": 8671,
+    "subjectName": "Антипаразитарные препараты",
+    "parentName": "Ветаптека"
+  },
+  {
+    "subjectID": 1972,
+    "parentID": 8614,
+    "subjectName": "Антиплесень",
+    "parentName": "Бытовая химия"
+  },
+  {
+    "subjectID": 9107,
+    "parentID": 8751,
+    "subjectName": "Антипригарные средства для сварки",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 2392,
+    "parentID": 8891,
+    "subjectName": "Антипробуксовочные приспособления",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 3021,
+    "parentID": 4268,
+    "subjectName": "Антисептики кожные",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 7301,
+    "parentID": 8555,
+    "subjectName": "Антисептики-пропитки",
+    "parentName": "Отделочные материалы"
+  },
+  {
+    "subjectID": 3009,
+    "parentID": 571,
+    "subjectName": "Антистеплеры",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 1592,
+    "parentID": 239,
+    "subjectName": "Антифог",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3935,
+    "parentID": 8892,
+    "subjectName": "Антифризы",
+    "parentName": "Масла и технические жидкости"
+  },
+  {
+    "subjectID": 583,
+    "parentID": 4823,
+    "subjectName": "Антицарапки",
+    "parentName": "Аксессуары для малышей"
+  },
+  {
+    "subjectID": 6103,
+    "parentID": 4268,
+    "subjectName": "Антиэмболические чулки",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 8449,
+    "parentID": 8746,
+    "subjectName": "Антресоли",
+    "parentName": "Мебель корпусная и мебель для хранения"
+  },
+  {
+    "subjectID": 9056,
+    "parentID": 9081,
+    "subjectName": "Аппаратура пускорегулирующая",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 1882,
+    "parentID": 1521,
+    "subjectName": "Аппараты для запаивания пакетов",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 3313,
+    "parentID": 657,
+    "subjectName": "Аппараты для маникюра и педикюра",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 5874,
+    "parentID": 657,
+    "subjectName": "Аппараты для надевания бахил",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 4052,
+    "parentID": 657,
+    "subjectName": "Аппараты для отбеливания зубов",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 2582,
+    "parentID": 1521,
+    "subjectName": "Аппараты для сахарной ваты",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 1569,
+    "parentID": 8751,
+    "subjectName": "Аппараты для сварки труб",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 5189,
+    "parentID": 4268,
+    "subjectName": "Аппараты для физиотерапии",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 4051,
+    "parentID": 657,
+    "subjectName": "Аппараты для фототерапии",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 4229,
+    "parentID": 4268,
+    "subjectName": "Аппараты магнитотерапии",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 1613,
+    "parentID": 49,
+    "subjectName": "Аппликаторы",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 4945,
+    "parentID": 4268,
+    "subjectName": "Аппликаторы грязевые",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 5979,
+    "parentID": 4268,
+    "subjectName": "Аппликаторы для инъекций",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 5346,
+    "parentID": 4268,
+    "subjectName": "Аппликаторы Кузнецова",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 5345,
+    "parentID": 4268,
+    "subjectName": "Аппликаторы Ляпко",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 7427,
+    "parentID": 723,
+    "subjectName": "Аптечки ветеринарные",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 8343,
+    "parentID": 723,
+    "subjectName": "Аптечки для сельскохозяйственных животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 5017,
+    "parentID": 4268,
+    "subjectName": "Аптечки для хранения лекарств",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 2719,
+    "parentID": 4268,
+    "subjectName": "Аптечки первой помощи",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 4589,
+    "parentID": 239,
+    "subjectName": "Арбалеты для отдыха",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3076,
+    "parentID": 8891,
+    "subjectName": "Ареометры",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 6313,
+    "parentID": 8555,
+    "subjectName": "Арки межкомнатные",
+    "parentName": "Отделочные материалы"
+  },
+  {
+    "subjectID": 6896,
+    "parentID": 6943,
+    "subjectName": "Арки садовые",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 4385,
+    "parentID": 2051,
+    "subjectName": "Арматура сливная",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 7557,
+    "parentID": 2050,
+    "subjectName": "Арматура строительная",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 4470,
+    "parentID": 3,
+    "subjectName": "Армбенды",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 2380,
+    "parentID": 8695,
+    "subjectName": "Аромалампы",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 2000,
+    "parentID": 657,
+    "subjectName": "Ароматизаторы воздуха электрические",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 2093,
+    "parentID": 49,
+    "subjectName": "Ароматизаторы для бани",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3420,
+    "parentID": 3109,
+    "subjectName": "Ароматизаторы пищевые",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 5784,
+    "parentID": 5038,
+    "subjectName": "Ароматизаторы эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 1000,
+    "parentID": 4268,
+    "subjectName": "Аспираторы детские",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 7262,
+    "parentID": 2050,
+    "subjectName": "Асфальт холодный",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 2018,
+    "parentID": 786,
+    "subjectName": "Атласы учебные",
+    "parentName": "Книжная продукция и диски"
+  },
+  {
+    "subjectID": 1189,
+    "parentID": 49,
+    "subjectName": "Атомайзеры",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 4977,
+    "parentID": 239,
+    "subjectName": "Аттрактанты рыболовные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4234,
+    "parentID": 6259,
+    "subjectName": "Аудиодомофоны",
+    "parentName": "Умный дом и безопасность"
+  },
+  {
+    "subjectID": 5768,
+    "parentID": 786,
+    "subjectName": "Аудиокниги CD",
+    "parentName": "Книжная продукция и диски"
+  },
+  {
+    "subjectID": 5061,
+    "parentID": 1590,
+    "subjectName": "Аэраторы для вин",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 5344,
+    "parentID": 6943,
+    "subjectName": "Аэраторы для пруда",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 2569,
+    "parentID": 2240,
+    "subjectName": "Аэраторы и скарификаторы газонные",
+    "parentName": "Садовая техника"
+  },
+  {
+    "subjectID": 5999,
+    "parentID": 2050,
+    "subjectName": "Аэраторы кровельные",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 4206,
+    "parentID": 1162,
+    "subjectName": "Аэрографы",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 2847,
+    "parentID": 657,
+    "subjectName": "Аэрографы косметические",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 2678,
+    "parentID": 1521,
+    "subjectName": "Аэрогрили",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 6442,
+    "parentID": 8555,
+    "subjectName": "Аэрозоли строительные",
+    "parentName": "Отделочные материалы"
+  },
+  {
+    "subjectID": 454,
+    "parentID": 3,
+    "subjectName": "Бабочки",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 565,
+    "parentID": 239,
+    "subjectName": "Багажники",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4659,
+    "parentID": 8891,
+    "subjectName": "Багажники автомобильные",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 2412,
+    "parentID": 3,
+    "subjectName": "Багажные бирки",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 6780,
+    "parentID": 8891,
+    "subjectName": "Багажные боксы",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 7775,
+    "parentID": 8891,
+    "subjectName": "Багажные отсеки",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 771,
+    "parentID": 8891,
+    "subjectName": "Багажные сетки",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 6044,
+    "parentID": 3109,
+    "subjectName": "Багеты",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2484,
+    "parentID": 239,
+    "subjectName": "Багорики",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1524,
+    "parentID": 4268,
+    "subjectName": "БАДы",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 1578,
+    "parentID": 239,
+    "subjectName": "Базы спортивные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7658,
+    "parentID": 6945,
+    "subjectName": "Баки для бани",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 7711,
+    "parentID": 2051,
+    "subjectName": "Баки для подачи воды",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 4579,
+    "parentID": 2051,
+    "subjectName": "Баки для систем фильтрации воды",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 6941,
+    "parentID": 2051,
+    "subjectName": "Баки расширительные",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 6221,
+    "parentID": 6943,
+    "subjectName": "Бактерии для подстилок",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 8699,
+    "parentID": 6945,
+    "subjectName": "Бактерии для септиков",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 1563,
+    "parentID": 6,
+    "subjectName": "Балаклавы",
+    "parentName": "Головные уборы"
+  },
+  {
+    "subjectID": 5375,
+    "parentID": 3324,
+    "subjectName": "Балалайки",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 7846,
+    "parentID": 760,
+    "subjectName": "Балансиры автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 4581,
+    "parentID": 239,
+    "subjectName": "Балансиры рыболовные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1154,
+    "parentID": 8693,
+    "subjectName": "Балдахины",
+    "parentName": "Текстиль для дома"
+  },
+  {
+    "subjectID": 33,
+    "parentID": 2,
+    "subjectName": "Балетки",
+    "parentName": "Обувь"
+  },
+  {
+    "subjectID": 6918,
+    "parentID": 8555,
+    "subjectName": "Балки декоративные",
+    "parentName": "Отделочные материалы"
+  },
+  {
+    "subjectID": 7776,
+    "parentID": 760,
+    "subjectName": "Балки моста",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7777,
+    "parentID": 760,
+    "subjectName": "Балки надрамника",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7911,
+    "parentID": 760,
+    "subjectName": "Балки поперечные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7912,
+    "parentID": 760,
+    "subjectName": "Балки продольные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7037,
+    "parentID": 6943,
+    "subjectName": "Балконные ящики",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 6779,
+    "parentID": 239,
+    "subjectName": "Баллончики для пневматики",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1394,
+    "parentID": 1590,
+    "subjectName": "Баллоны для сифонов",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 8831,
+    "parentID": 257,
+    "subjectName": "Баллоны с гелием",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 377,
+    "parentID": 49,
+    "subjectName": "Бальзамы",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3270,
+    "parentID": 723,
+    "subjectName": "Бальзамы для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 1923,
+    "parentID": 49,
+    "subjectName": "Бальзамы после бритья",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 8976,
+    "parentID": 760,
+    "subjectName": "Бамперы автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7140,
+    "parentID": 6731,
+    "subjectName": "Бамперы для квадроциклов",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 6117,
+    "parentID": 883,
+    "subjectName": "Бамперы для колясок",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 7142,
+    "parentID": 6731,
+    "subjectName": "Бамперы для снегоходов",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 8437,
+    "parentID": 8891,
+    "subjectName": "Бамперы силовые",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 2959,
+    "parentID": 723,
+    "subjectName": "Бандажи для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 369,
+    "parentID": 4268,
+    "subjectName": "Бандажи до- и послеродовые",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 2648,
+    "parentID": 49,
+    "subjectName": "Бандажи косметические",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1334,
+    "parentID": 4268,
+    "subjectName": "Бандажи ортопедические",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 3739,
+    "parentID": 4268,
+    "subjectName": "Бандажи послеоперационные",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 5051,
+    "parentID": 5038,
+    "subjectName": "Бандажи эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 6632,
+    "parentID": 4,
+    "subjectName": "Бандалетки",
+    "parentName": "Белье"
+  },
+  {
+    "subjectID": 287,
+    "parentID": 3,
+    "subjectName": "Банданы",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 4781,
+    "parentID": 4823,
+    "subjectName": "Банданы для малышей",
+    "parentName": "Аксессуары для малышей"
+  },
+  {
+    "subjectID": 7029,
+    "parentID": 3324,
+    "subjectName": "Банджо и домры",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 7699,
+    "parentID": 7580,
+    "subjectName": "Банкетки",
+    "parentName": "Мебель мягкая"
+  },
+  {
+    "subjectID": 4846,
+    "parentID": 3324,
+    "subjectName": "Банкетки для пианино",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 4046,
+    "parentID": 1590,
+    "subjectName": "Банки для йогуртниц",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 1866,
+    "parentID": 571,
+    "subjectName": "Банковские резинки",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 383,
+    "parentID": 1465,
+    "subjectName": "Банты",
+    "parentName": "Аксессуары для волос"
+  },
+  {
+    "subjectID": 4920,
+    "parentID": 257,
+    "subjectName": "Банты для подарков",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 3327,
+    "parentID": 3324,
+    "subjectName": "Барабанные палочки",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 3330,
+    "parentID": 3324,
+    "subjectName": "Барабаны",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 3393,
+    "parentID": 3109,
+    "subjectName": "Баранки",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 8215,
+    "parentID": 8747,
+    "subjectName": "Барные стойки",
+    "parentName": "Мебель малых форм"
+  },
+  {
+    "subjectID": 335,
+    "parentID": 8695,
+    "subjectName": "Барометры",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 1437,
+    "parentID": 1590,
+    "subjectName": "Бары",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 5397,
+    "parentID": 8891,
+    "subjectName": "Барьеры парковочные",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 1576,
+    "parentID": 239,
+    "subjectName": "Барьеры спортивные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3343,
+    "parentID": 3324,
+    "subjectName": "Бас-гитары",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 2161,
+    "parentID": 239,
+    "subjectName": "Баскетбольные щиты",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 8417,
+    "parentID": 6945,
+    "subjectName": "Бассейны каркасные",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 8416,
+    "parentID": 6945,
+    "subjectName": "Бассейны надувные",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 3889,
+    "parentID": 2638,
+    "subjectName": "Батончики детские",
+    "parentName": "Детское питание"
+  },
+  {
+    "subjectID": 3014,
+    "parentID": 3109,
+    "subjectName": "Батончики злаковые",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 1604,
+    "parentID": 1081,
+    "subjectName": "Батончики спортивные",
+    "parentName": "Спортивное питание и косметика"
+  },
+  {
+    "subjectID": 2878,
+    "parentID": 3109,
+    "subjectName": "Батончики шоколадные",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2162,
+    "parentID": 239,
+    "subjectName": "Батуты",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4245,
+    "parentID": 7,
+    "subjectName": "Батуты детские",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 4506,
+    "parentID": 239,
+    "subjectName": "Баулы хоккейные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6446,
+    "parentID": 3109,
+    "subjectName": "Баурсак",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2653,
+    "parentID": 4268,
+    "subjectName": "Бахилы",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 4561,
+    "parentID": 3497,
+    "subjectName": "Бахилы горнолыжные",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 7903,
+    "parentID": 760,
+    "subjectName": "Бачки автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 5872,
+    "parentID": 760,
+    "subjectName": "Бачки ГУР",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7937,
+    "parentID": 760,
+    "subjectName": "Бачки расширительные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7778,
+    "parentID": 760,
+    "subjectName": "Бачки стеклоочистителя",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7779,
+    "parentID": 760,
+    "subjectName": "Бачки тормозной жидкости",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 6569,
+    "parentID": 3324,
+    "subjectName": "Баяны",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 538,
+    "parentID": 239,
+    "subjectName": "Беговел",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4298,
+    "parentID": 239,
+    "subjectName": "Беговые дорожки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6971,
+    "parentID": 3109,
+    "subjectName": "Безалкогольное шампанское",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2292,
+    "parentID": 1590,
+    "subjectName": "Безмены",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 971,
+    "parentID": 571,
+    "subjectName": "Бейджи",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 84,
+    "parentID": 6,
+    "subjectName": "Бейсболки",
+    "parentName": "Головные уборы"
+  },
+  {
+    "subjectID": 4782,
+    "parentID": 4823,
+    "subjectName": "Бейсболки для малышей",
+    "parentName": "Аксессуары для малышей"
+  },
+  {
+    "subjectID": 6654,
+    "parentID": 3109,
+    "subjectName": "Бекон",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2221,
+    "parentID": 2240,
+    "subjectName": "Бензопилы",
+    "parentName": "Садовая техника"
+  },
+  {
+    "subjectID": 4017,
+    "parentID": 8751,
+    "subjectName": "Бензорезы",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 83,
+    "parentID": 6,
+    "subjectName": "Береты",
+    "parentName": "Головные уборы"
+  },
+  {
+    "subjectID": 4783,
+    "parentID": 4823,
+    "subjectName": "Береты для малышей",
+    "parentName": "Аксессуары для малышей"
+  },
+  {
+    "subjectID": 216,
+    "parentID": 1,
+    "subjectName": "Бермуды",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 4622,
+    "parentID": 4607,
+    "subjectName": "Бермуды для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 477,
+    "parentID": 1605,
+    "subjectName": "Беруши",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 7780,
+    "parentID": 760,
+    "subjectName": "Бесключевые системы",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 4516,
+    "parentID": 6945,
+    "subjectName": "Беспламенные нагреватели пищи",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 5513,
+    "parentID": 6249,
+    "subjectName": "Бестабачные смеси для кальянов",
+    "parentName": "Товары для курения"
+  },
+  {
+    "subjectID": 6156,
+    "parentID": 8751,
+    "subjectName": "Бетономешалки",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 845,
+    "parentID": 49,
+    "subjectName": "Бигуди",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 5910,
+    "parentID": 2051,
+    "subjectName": "Биде",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 2123,
+    "parentID": 1590,
+    "subjectName": "Бидоны",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 2874,
+    "parentID": 7,
+    "subjectName": "Бизиборды",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 334,
+    "parentID": 571,
+    "subjectName": "Бизнес-наборы",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 6882,
+    "parentID": 723,
+    "subjectName": "Бильные пальцы",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 506,
+    "parentID": 239,
+    "subjectName": "Бинокли",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3462,
+    "parentID": 239,
+    "subjectName": "Бинты быстрые",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3245,
+    "parentID": 723,
+    "subjectName": "Бинты для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 2100,
+    "parentID": 49,
+    "subjectName": "Бинты для обертывания",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3046,
+    "parentID": 4268,
+    "subjectName": "Бинты медицинские",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 414,
+    "parentID": 239,
+    "subjectName": "Бинты спортивные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2377,
+    "parentID": 4268,
+    "subjectName": "Бинты эластичные медицинские",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 3136,
+    "parentID": 6945,
+    "subjectName": "Биотуалеты",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 5400,
+    "parentID": 4268,
+    "subjectName": "БИПАП-аппараты",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 3920,
+    "parentID": 3,
+    "subjectName": "Бирки для ключей",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 7444,
+    "parentID": 883,
+    "subjectName": "Бирки для новорожденных",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 3990,
+    "parentID": 2479,
+    "subjectName": "Биркодержатели",
+    "parentName": "Мебель офисная и торговое оборудование"
+  },
+  {
+    "subjectID": 4954,
+    "parentID": 1284,
+    "subjectName": "Бисер",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 6725,
+    "parentID": 3109,
+    "subjectName": "Биточки",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2382,
+    "parentID": 1162,
+    "subjectName": "Биты для шуруповерта",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 535,
+    "parentID": 239,
+    "subjectName": "Биты спортивные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2090,
+    "parentID": 8695,
+    "subjectName": "Благовония",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 5783,
+    "parentID": 5038,
+    "subjectName": "Благовония эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 4191,
+    "parentID": 571,
+    "subjectName": "Бланки",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 614,
+    "parentID": 1521,
+    "subjectName": "Блендеры",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 349,
+    "parentID": 49,
+    "subjectName": "Блески",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 684,
+    "parentID": 739,
+    "subjectName": "Блески для обуви",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 3275,
+    "parentID": 723,
+    "subjectName": "Блеск-тату для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 2505,
+    "parentID": 239,
+    "subjectName": "Блесны рыболовные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4011,
+    "parentID": 1284,
+    "subjectName": "Блестки декоративные",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 808,
+    "parentID": 1521,
+    "subjectName": "Блинницы электрические",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 6607,
+    "parentID": 3109,
+    "subjectName": "Блины",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 4065,
+    "parentID": 4268,
+    "subjectName": "Блокаторы вирусов",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 5335,
+    "parentID": 6946,
+    "subjectName": "Блоки автоматики для насосов",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 1581,
+    "parentID": 239,
+    "subjectName": "Блоки для йоги",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7365,
+    "parentID": 2050,
+    "subjectName": "Блоки для троса",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 6264,
+    "parentID": 6731,
+    "subjectName": "Блоки зажигания снегохода",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 2009,
+    "parentID": 8995,
+    "subjectName": "Блоки питания",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 4864,
+    "parentID": 8995,
+    "subjectName": "Блоки питания для антенн",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 8994,
+    "parentID": 6238,
+    "subjectName": "Блоки питания для компьютеров",
+    "parentName": "Ноутбуки и компьютеры"
+  },
+  {
+    "subjectID": 3128,
+    "parentID": 6238,
+    "subjectName": "Блоки питания для ноутбуков",
+    "parentName": "Ноутбуки и компьютеры"
+  },
+  {
+    "subjectID": 4865,
+    "parentID": 6259,
+    "subjectName": "Блоки питания для систем безопасности",
+    "parentName": "Умный дом и безопасность"
+  },
+  {
+    "subjectID": 6079,
+    "parentID": 49,
+    "subjectName": "Блоки питания для тату машинки",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 6698,
+    "parentID": 8891,
+    "subjectName": "Блоки подготовки воздуха тонкой очистки",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 6184,
+    "parentID": 723,
+    "subjectName": "Блоки подогрева и стерилизации воды для поилки",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 961,
+    "parentID": 49,
+    "subjectName": "Блоки полировочные",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 8440,
+    "parentID": 760,
+    "subjectName": "Блокировки дифференциалов",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 3848,
+    "parentID": 760,
+    "subjectName": "Блоки розжига ксенона",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 5531,
+    "parentID": 8891,
+    "subjectName": "Блоки с вытяжной лентой",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 7782,
+    "parentID": 760,
+    "subjectName": "Блоки системы дополнительного воздуха",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 4463,
+    "parentID": 8891,
+    "subjectName": "Блоки согласования фаркопов",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 7419,
+    "parentID": 2050,
+    "subjectName": "Блоки строительные",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 7783,
+    "parentID": 760,
+    "subjectName": "Блоки управления",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 5817,
+    "parentID": 760,
+    "subjectName": "Блоки управления вентилятора",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 6265,
+    "parentID": 6731,
+    "subjectName": "Блоки управления двигателем снегохода",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 8504,
+    "parentID": 657,
+    "subjectName": "Блоки управления для конвекторов",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 5797,
+    "parentID": 6259,
+    "subjectName": "Блоки управления замком",
+    "parentName": "Умный дом и безопасность"
+  },
+  {
+    "subjectID": 5566,
+    "parentID": 760,
+    "subjectName": "Блоки управления стеклоподъемниками",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 6285,
+    "parentID": 760,
+    "subjectName": "Блоки цилиндра",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 661,
+    "parentID": 571,
+    "subjectName": "Блокноты",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 2964,
+    "parentID": 786,
+    "subjectName": "Блокноты творческие",
+    "parentName": "Книжная продукция и диски"
+  },
+  {
+    "subjectID": 2345,
+    "parentID": 8995,
+    "subjectName": "Блокноты электронные",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 7373,
+    "parentID": 2050,
+    "subjectName": "Блок-хаус",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 6489,
+    "parentID": 49,
+    "subjectName": "Блоттеры для парфюмерии",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 41,
+    "parentID": 1,
+    "subjectName": "Блузки",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 1429,
+    "parentID": 1,
+    "subjectName": "Блузки-боди",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 3999,
+    "parentID": 4607,
+    "subjectName": "Блузки для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 817,
+    "parentID": 1590,
+    "subjectName": "Блюда",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 1802,
+    "parentID": 1590,
+    "subjectName": "Блюда-этажерки",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 1494,
+    "parentID": 1590,
+    "subjectName": "Блюдца",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 75,
+    "parentID": 4,
+    "subjectName": "Боди",
+    "parentName": "Белье"
+  },
+  {
+    "subjectID": 2166,
+    "parentID": 239,
+    "subjectName": "Бодибары",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4568,
+    "parentID": 4735,
+    "subjectName": "Боди для малышей",
+    "parentName": "Белье для малышей"
+  },
+  {
+    "subjectID": 8444,
+    "parentID": 8891,
+    "subjectName": "Боди-лифт",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 5302,
+    "parentID": 4268,
+    "subjectName": "Боди послеоперационные",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 2602,
+    "parentID": 5038,
+    "subjectName": "Боди эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 881,
+    "parentID": 1590,
+    "subjectName": "Бокалы",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 4769,
+    "parentID": 239,
+    "subjectName": "Боковые колеса для детских велосипедов",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7784,
+    "parentID": 8891,
+    "subjectName": "Боковые фонари указателя поворота",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 3665,
+    "parentID": 1162,
+    "subjectName": "Бокорезы",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 4651,
+    "parentID": 3497,
+    "subjectName": "Боксерки",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 4957,
+    "parentID": 571,
+    "subjectName": "Боксы для коллекционирования",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 3911,
+    "parentID": 1605,
+    "subjectName": "Боксы для плавательных масок",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 4468,
+    "parentID": 723,
+    "subjectName": "Боксы для рулеток",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 2346,
+    "parentID": 239,
+    "subjectName": "Боксы для рыболовных принадлежностей",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1902,
+    "parentID": 657,
+    "subjectName": "Боксы для часов",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 6545,
+    "parentID": 8995,
+    "subjectName": "Боксы для элементов питания",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 225,
+    "parentID": 1,
+    "subjectName": "Болеро",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 4624,
+    "parentID": 4607,
+    "subjectName": "Болеро для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 5202,
+    "parentID": 1513,
+    "subjectName": "Болеро спортивные",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 3668,
+    "parentID": 1162,
+    "subjectName": "Болторезы",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 4104,
+    "parentID": 2050,
+    "subjectName": "Болты",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 6243,
+    "parentID": 760,
+    "subjectName": "Болты вариатора",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7785,
+    "parentID": 760,
+    "subjectName": "Болты головки блока цилиндра",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 4405,
+    "parentID": 239,
+    "subjectName": "Болты для самокатов",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4524,
+    "parentID": 239,
+    "subjectName": "Болты для шлемов",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3837,
+    "parentID": 8891,
+    "subjectName": "Болты секретные",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 1635,
+    "parentID": 1,
+    "subjectName": "Бомберы",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 4533,
+    "parentID": 4607,
+    "subjectName": "Бомберы для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 4824,
+    "parentID": 1590,
+    "subjectName": "Бомбильи",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 3151,
+    "parentID": 49,
+    "subjectName": "Бомбочки для ванны",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3530,
+    "parentID": 3324,
+    "subjectName": "Бонго",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 1842,
+    "parentID": 6945,
+    "subjectName": "Бондарные изделия",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 420,
+    "parentID": 4,
+    "subjectName": "Бордшорты",
+    "parentName": "Белье"
+  },
+  {
+    "subjectID": 6101,
+    "parentID": 2051,
+    "subjectName": "Бордюры для ванны",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 8520,
+    "parentID": 8555,
+    "subjectName": "Бордюры для обоев",
+    "parentName": "Отделочные материалы"
+  },
+  {
+    "subjectID": 7242,
+    "parentID": 6943,
+    "subjectName": "Бордюры садовые",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 1159,
+    "parentID": 883,
+    "subjectName": "Бортики для кроватей",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 5591,
+    "parentID": 8995,
+    "subjectName": "Бортовые компьютеры",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 2716,
+    "parentID": 3497,
+    "subjectName": "Борцовки",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 93,
+    "parentID": 2,
+    "subjectName": "Босоножки",
+    "parentName": "Обувь"
+  },
+  {
+    "subjectID": 343,
+    "parentID": 2,
+    "subjectName": "Ботильоны",
+    "parentName": "Обувь"
+  },
+  {
+    "subjectID": 94,
+    "parentID": 2,
+    "subjectName": "Ботинки",
+    "parentName": "Обувь"
+  },
+  {
+    "subjectID": 3172,
+    "parentID": 3497,
+    "subjectName": "Ботинки горнолыжные",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 2173,
+    "parentID": 239,
+    "subjectName": "Ботинки гравитационные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7754,
+    "parentID": 3497,
+    "subjectName": "Ботинки для лыжероллеров",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 3171,
+    "parentID": 3497,
+    "subjectName": "Ботинки лыжные",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 1973,
+    "parentID": 3497,
+    "subjectName": "Ботинки сноубордические",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 318,
+    "parentID": 2,
+    "subjectName": "Ботфорты",
+    "parentName": "Обувь"
+  },
+  {
+    "subjectID": 3925,
+    "parentID": 3497,
+    "subjectName": "Боты для дайвинга",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 7266,
+    "parentID": 3109,
+    "subjectName": "Боулы",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 4984,
+    "parentID": 1590,
+    "subjectName": "Бочки дубовые",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 2939,
+    "parentID": 6946,
+    "subjectName": "Бочки садовые",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 2454,
+    "parentID": 1590,
+    "subjectName": "Бочонки для напитков",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 1157,
+    "parentID": 8694,
+    "subjectName": "Бра",
+    "parentName": "Освещение"
+  },
+  {
+    "subjectID": 201,
+    "parentID": 200,
+    "subjectName": "Браслеты",
+    "parentName": "Бижутерия"
+  },
+  {
+    "subjectID": 2537,
+    "parentID": 8995,
+    "subjectName": "Браслеты безопасности",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 7448,
+    "parentID": 1605,
+    "subjectName": "Браслеты для плавания",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 906,
+    "parentID": 3,
+    "subjectName": "Браслеты для часов",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 6207,
+    "parentID": 571,
+    "subjectName": "Браслеты контрольные",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 4444,
+    "parentID": 4268,
+    "subjectName": "Браслеты от укачивания",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 5049,
+    "parentID": 5038,
+    "subjectName": "Браслеты эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 6222,
+    "parentID": 6945,
+    "subjectName": "Брезенты",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 297,
+    "parentID": 200,
+    "subjectName": "Брелоки",
+    "parentName": "Бижутерия"
+  },
+  {
+    "subjectID": 8265,
+    "parentID": 239,
+    "subjectName": "Брелоки для самозащиты",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2026,
+    "parentID": 8995,
+    "subjectName": "Брелоки-локаторы",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 2844,
+    "parentID": 723,
+    "subjectName": "Брелоки на ошейники",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 478,
+    "parentID": 4,
+    "subjectName": "Бретели",
+    "parentName": "Белье"
+  },
+  {
+    "subjectID": 147,
+    "parentID": 1,
+    "subjectName": "Бриджи",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 4625,
+    "parentID": 4607,
+    "subjectName": "Бриджи для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 5203,
+    "parentID": 1513,
+    "subjectName": "Бриджи спортивные",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 3696,
+    "parentID": 6945,
+    "subjectName": "Брикеты угольные",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 375,
+    "parentID": 49,
+    "subjectName": "Бритвенные наборы",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1527,
+    "parentID": 49,
+    "subjectName": "Бритвы безопасные",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1965,
+    "parentID": 49,
+    "subjectName": "Бритвы опасные",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 620,
+    "parentID": 657,
+    "subjectName": "Бритвы электрические",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 8990,
+    "parentID": 239,
+    "subjectName": "Бронеодежда",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1063,
+    "parentID": 7,
+    "subjectName": "Бронетехника",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 1931,
+    "parentID": 49,
+    "subjectName": "Бронзеры",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 295,
+    "parentID": 200,
+    "subjectName": "Броши",
+    "parentName": "Бижутерия"
+  },
+  {
+    "subjectID": 4176,
+    "parentID": 571,
+    "subjectName": "Брошюровщики",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 5555,
+    "parentID": 723,
+    "subjectName": "Брудеры",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 7233,
+    "parentID": 2050,
+    "subjectName": "Бруски строительные",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 5370,
+    "parentID": 1162,
+    "subjectName": "Бруски шлифовальные",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 5946,
+    "parentID": 8695,
+    "subjectName": "Брусчатка светодиодная",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 6131,
+    "parentID": 239,
+    "subjectName": "Брусья",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2249,
+    "parentID": 8891,
+    "subjectName": "Брызговики",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 5426,
+    "parentID": 239,
+    "subjectName": "Брызговики для лыжероллеров",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 11,
+    "parentID": 1,
+    "subjectName": "Брюки",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 3995,
+    "parentID": 4607,
+    "subjectName": "Брюки для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 2898,
+    "parentID": 6119,
+    "subjectName": "Брюки медицинские",
+    "parentName": "Спецодежда и СИЗы"
+  },
+  {
+    "subjectID": 4997,
+    "parentID": 6119,
+    "subjectName": "Брюки одноразовые",
+    "parentName": "Спецодежда и СИЗы"
+  },
+  {
+    "subjectID": 3192,
+    "parentID": 6119,
+    "subjectName": "Брюки рабочие",
+    "parentName": "Спецодежда и СИЗы"
+  },
+  {
+    "subjectID": 5204,
+    "parentID": 1513,
+    "subjectName": "Брюки спортивные",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 4852,
+    "parentID": 3324,
+    "subjectName": "Бубенцы",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 1859,
+    "parentID": 1465,
+    "subjectName": "Бублики для волос",
+    "parentName": "Аксессуары для волос"
+  },
+  {
+    "subjectID": 4850,
+    "parentID": 3324,
+    "subjectName": "Бубны",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 2330,
+    "parentID": 8995,
+    "subjectName": "Будильники электронные",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 8255,
+    "parentID": 657,
+    "subjectName": "Будильники энурезные",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 3228,
+    "parentID": 723,
+    "subjectName": "Будки для собак",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 6659,
+    "parentID": 3109,
+    "subjectName": "Буженина",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 3954,
+    "parentID": 239,
+    "subjectName": "Буи",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6938,
+    "parentID": 1605,
+    "subjectName": "Буи для подводного плавания",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 6565,
+    "parentID": 257,
+    "subjectName": "Букеты живых цветов",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 6566,
+    "parentID": 257,
+    "subjectName": "Букеты искусственных цветов",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 5670,
+    "parentID": 257,
+    "subjectName": "Букеты свадебные",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 3455,
+    "parentID": 786,
+    "subjectName": "Букинистические книги",
+    "parentName": "Книжная продукция и диски"
+  },
+  {
+    "subjectID": 3456,
+    "parentID": 786,
+    "subjectName": "Букинистические комплекты",
+    "parentName": "Книжная продукция и диски"
+  },
+  {
+    "subjectID": 1754,
+    "parentID": 1284,
+    "subjectName": "Булавки",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 4688,
+    "parentID": 200,
+    "subjectName": "Булавки для воротника",
+    "parentName": "Бижутерия"
+  },
+  {
+    "subjectID": 695,
+    "parentID": 239,
+    "subjectName": "Булавы",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3976,
+    "parentID": 3109,
+    "subjectName": "Булгур",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 6045,
+    "parentID": 3109,
+    "subjectName": "Булочки",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2457,
+    "parentID": 1077,
+    "subjectName": "Бумага для выпечки",
+    "parentName": "Хозяйственные товары"
+  },
+  {
+    "subjectID": 3182,
+    "parentID": 571,
+    "subjectName": "Бумага для оргтехники",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 3298,
+    "parentID": 723,
+    "subjectName": "Бумага для папильоток",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 2746,
+    "parentID": 1284,
+    "subjectName": "Бумага для рукоделия",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 5630,
+    "parentID": 6249,
+    "subjectName": "Бумага для самокруток",
+    "parentName": "Товары для курения"
+  },
+  {
+    "subjectID": 3181,
+    "parentID": 571,
+    "subjectName": "Бумага и стикеры для заметок",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 4098,
+    "parentID": 2050,
+    "subjectName": "Бумага маскировочная",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 1365,
+    "parentID": 571,
+    "subjectName": "Бумага миллиметровая",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 4253,
+    "parentID": 1162,
+    "subjectName": "Бумага наждачная",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 2553,
+    "parentID": 1077,
+    "subjectName": "Бумага пищевая",
+    "parentName": "Хозяйственные товары"
+  },
+  {
+    "subjectID": 4919,
+    "parentID": 257,
+    "subjectName": "Бумага подарочная",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 4247,
+    "parentID": 3109,
+    "subjectName": "Бумага рисовая",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 1131,
+    "parentID": 571,
+    "subjectName": "Бумага художественная",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 1794,
+    "parentID": 1077,
+    "subjectName": "Бумажные салфетки",
+    "parentName": "Хозяйственные товары"
+  },
+  {
+    "subjectID": 1344,
+    "parentID": 257,
+    "subjectName": "Бумажные шары",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 4572,
+    "parentID": 7,
+    "subjectName": "Бумеранги",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 7250,
+    "parentID": 3109,
+    "subjectName": "Бургеры",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 1678,
+    "parentID": 4268,
+    "subjectName": "Бурсопротекторы",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 3830,
+    "parentID": 1162,
+    "subjectName": "Буры",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 5014,
+    "parentID": 1284,
+    "subjectName": "Бусины",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 1098,
+    "parentID": 1081,
+    "subjectName": "Бустеры тестостерона",
+    "parentName": "Спортивное питание и косметика"
+  },
+  {
+    "subjectID": 1688,
+    "parentID": 200,
+    "subjectName": "Бусы",
+    "parentName": "Бижутерия"
+  },
+  {
+    "subjectID": 1693,
+    "parentID": 200,
+    "subjectName": "Бутоньерки",
+    "parentName": "Бижутерия"
+  },
+  {
+    "subjectID": 128,
+    "parentID": 3497,
+    "subjectName": "Бутсы",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 3528,
+    "parentID": 1590,
+    "subjectName": "Бутылки",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 384,
+    "parentID": 239,
+    "subjectName": "Бутылки для воды",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6774,
+    "parentID": 8695,
+    "subjectName": "Бутылки сувенирные",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 6481,
+    "parentID": 1590,
+    "subjectName": "Бутылкорезы",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 3238,
+    "parentID": 723,
+    "subjectName": "Бутылочки для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 888,
+    "parentID": 883,
+    "subjectName": "Бутылочки для кормления",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 8147,
+    "parentID": 760,
+    "subjectName": "Буферы автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 6283,
+    "parentID": 6731,
+    "subjectName": "Буферы тележки снегохода",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 7556,
+    "parentID": 6945,
+    "subjectName": "Бытовки сборные",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 76,
+    "parentID": 4,
+    "subjectName": "Бюстгальтеры",
+    "parentName": "Белье"
+  },
+  {
+    "subjectID": 5011,
+    "parentID": 4268,
+    "subjectName": "Бюстгальтеры медицинские",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 2603,
+    "parentID": 5038,
+    "subjectName": "Бюстгальтеры эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5293,
+    "parentID": 5038,
+    "subjectName": "Вагинальные тренажеры",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5072,
+    "parentID": 5038,
+    "subjectName": "Вагинальные шарики",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 7374,
+    "parentID": 2050,
+    "subjectName": "Вагонки деревянные",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 2347,
+    "parentID": 6943,
+    "subjectName": "Вазоны",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 223,
+    "parentID": 8695,
+    "subjectName": "Вазы",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 5576,
+    "parentID": 5038,
+    "subjectName": "Вакуумно-волновые стимуляторы",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 1757,
+    "parentID": 49,
+    "subjectName": "Вакуумные банки",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1426,
+    "parentID": 1598,
+    "subjectName": "Вакуумные пакеты",
+    "parentName": "Хранение вещей"
+  },
+  {
+    "subjectID": 6957,
+    "parentID": 723,
+    "subjectName": "Вакуумные поилки",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 5073,
+    "parentID": 5038,
+    "subjectName": "Вакуумные помпы эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 8031,
+    "parentID": 760,
+    "subjectName": "Вакуумные трубопроводы автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7786,
+    "parentID": 760,
+    "subjectName": "Вакуумные усилители тормозов",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 3022,
+    "parentID": 8671,
+    "subjectName": "Вакцины для животных",
+    "parentName": "Ветаптека"
+  },
+  {
+    "subjectID": 337,
+    "parentID": 2,
+    "subjectName": "Валенки",
+    "parentName": "Обувь"
+  },
+  {
+    "subjectID": 5249,
+    "parentID": 1605,
+    "subjectName": "Валики для приседаний",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 4435,
+    "parentID": 49,
+    "subjectName": "Валики для ресниц",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3831,
+    "parentID": 1162,
+    "subjectName": "Валики малярные",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 4380,
+    "parentID": 239,
+    "subjectName": "Валики спортивные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4313,
+    "parentID": 571,
+    "subjectName": "Валики художественные",
+    "parentName": "Канцелярские товары"
+  },
+  {
+    "subjectID": 7925,
+    "parentID": 760,
+    "subjectName": "Валы балансирные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7766,
+    "parentID": 760,
+    "subjectName": "Валы карданные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 8084,
+    "parentID": 760,
+    "subjectName": "Валы коленчатые",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7787,
+    "parentID": 760,
+    "subjectName": "Валы коробки передач",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7902,
+    "parentID": 760,
+    "subjectName": "Валы приводные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7910,
+    "parentID": 760,
+    "subjectName": "Валы продольные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7924,
+    "parentID": 760,
+    "subjectName": "Валы промежуточные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7931,
+    "parentID": 760,
+    "subjectName": "Валы распределительные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7832,
+    "parentID": 760,
+    "subjectName": "Валы рулевого управления",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7788,
+    "parentID": 760,
+    "subjectName": "Валы спидометра",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 4704,
+    "parentID": 1605,
+    "subjectName": "Вальтрапы",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 1432,
+    "parentID": 883,
+    "subjectName": "Ванночки детские",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 3233,
+    "parentID": 723,
+    "subjectName": "Ванночки для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 4291,
+    "parentID": 4268,
+    "subjectName": "Ванночки для лежачих больных",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 3621,
+    "parentID": 49,
+    "subjectName": "Ванночки для маникюра",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3304,
+    "parentID": 49,
+    "subjectName": "Ванночки для ног",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 4337,
+    "parentID": 1162,
+    "subjectName": "Ванночки малярные",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 3622,
+    "parentID": 8995,
+    "subjectName": "Ванночки парафиновые",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 5580,
+    "parentID": 4268,
+    "subjectName": "Ванночки сидячие",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 6066,
+    "parentID": 2051,
+    "subjectName": "Ванны",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 8471,
+    "parentID": 723,
+    "subjectName": "Ванны для груминга",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 3513,
+    "parentID": 8995,
+    "subjectName": "Ванны ультразвуковые",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 2527,
+    "parentID": 1077,
+    "subjectName": "Вантузы",
+    "parentName": "Хозяйственные товары"
+  },
+  {
+    "subjectID": 5928,
+    "parentID": 3324,
+    "subjectName": "Варганы",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 208,
+    "parentID": 3,
+    "subjectName": "Варежки",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 4825,
+    "parentID": 4823,
+    "subjectName": "Варежки для малышей",
+    "parentName": "Аксессуары для малышей"
+  },
+  {
+    "subjectID": 1780,
+    "parentID": 1605,
+    "subjectName": "Варежки спортивные",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 6748,
+    "parentID": 3109,
+    "subjectName": "Варенец",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 5623,
+    "parentID": 3109,
+    "subjectName": "Вареники",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 3176,
+    "parentID": 3109,
+    "subjectName": "Варенье",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 8623,
+    "parentID": 6731,
+    "subjectName": "Вариаторы для мототехники",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 2887,
+    "parentID": 5495,
+    "subjectName": "Варочные панели",
+    "parentName": "Крупная бытовая техника"
+  },
+  {
+    "subjectID": 5735,
+    "parentID": 3109,
+    "subjectName": "Васаберы",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 4238,
+    "parentID": 4268,
+    "subjectName": "Вата медицинская",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 975,
+    "parentID": 49,
+    "subjectName": "Ватные диски",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 909,
+    "parentID": 49,
+    "subjectName": "Ватные палочки",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3265,
+    "parentID": 723,
+    "subjectName": "Ватные палочки для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 1851,
+    "parentID": 239,
+    "subjectName": "Ватрушки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 709,
+    "parentID": 1521,
+    "subjectName": "Вафельницы",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 4598,
+    "parentID": 3109,
+    "subjectName": "Вафельные стаканчики",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 3101,
+    "parentID": 3109,
+    "subjectName": "Вафли",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 1603,
+    "parentID": 1081,
+    "subjectName": "Вафли протеиновые",
+    "parentName": "Спортивное питание и косметика"
+  },
+  {
+    "subjectID": 5606,
+    "parentID": 239,
+    "subjectName": "Ввёртыши",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1144,
+    "parentID": 7,
+    "subjectName": "Ведерки детские",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 869,
+    "parentID": 1590,
+    "subjectName": "Ведерки для льда",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 1878,
+    "parentID": 6945,
+    "subjectName": "Ведра для золы",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 7449,
+    "parentID": 1605,
+    "subjectName": "Ведра для теннисных мячей",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 2371,
+    "parentID": 6946,
+    "subjectName": "Ведра садовые",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 7108,
+    "parentID": 1590,
+    "subjectName": "Ведра сервировочные",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 1436,
+    "parentID": 1077,
+    "subjectName": "Ведра хозяйственные",
+    "parentName": "Хозяйственные товары"
+  },
+  {
+    "subjectID": 2920,
+    "parentID": 3,
+    "subjectName": "Веера",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 3959,
+    "parentID": 1513,
+    "subjectName": "Вейдерсы",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 566,
+    "parentID": 239,
+    "subjectName": "Велоаптечки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1372,
+    "parentID": 8891,
+    "subjectName": "Велобагажники на авто",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 4513,
+    "parentID": 3497,
+    "subjectName": "Велобахилы",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 1557,
+    "parentID": 239,
+    "subjectName": "Велодекор",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1556,
+    "parentID": 1513,
+    "subjectName": "Веложилеты",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 1303,
+    "parentID": 239,
+    "subjectName": "Велоинструменты",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1051,
+    "parentID": 239,
+    "subjectName": "Велокамеры",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 560,
+    "parentID": 239,
+    "subjectName": "Велокомпьютеры",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2139,
+    "parentID": 239,
+    "subjectName": "Велокресла",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1555,
+    "parentID": 1513,
+    "subjectName": "Велокуртки",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 3195,
+    "parentID": 239,
+    "subjectName": "Веломобили",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5640,
+    "parentID": 3497,
+    "subjectName": "Велообувь",
+    "parentName": "Спортивная обувь"
+  },
+  {
+    "subjectID": 7679,
+    "parentID": 239,
+    "subjectName": "Велопарковки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1540,
+    "parentID": 1605,
+    "subjectName": "Велоперчатки",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 3835,
+    "parentID": 1,
+    "subjectName": "Велосипедки",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 4627,
+    "parentID": 4607,
+    "subjectName": "Велосипедки для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 2151,
+    "parentID": 239,
+    "subjectName": "Велосипеды двухколесные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 422,
+    "parentID": 239,
+    "subjectName": "Велосипеды трехколесные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5901,
+    "parentID": 723,
+    "subjectName": "Велоспрингеры",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 4774,
+    "parentID": 239,
+    "subjectName": "Велостанки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3870,
+    "parentID": 1605,
+    "subjectName": "Велосумки",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 4154,
+    "parentID": 239,
+    "subjectName": "Велотренажеры",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6476,
+    "parentID": 239,
+    "subjectName": "Велоудочки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1406,
+    "parentID": 239,
+    "subjectName": "Велохимия",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6942,
+    "parentID": 1513,
+    "subjectName": "Велочулки",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 492,
+    "parentID": 1513,
+    "subjectName": "Велошорты",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 493,
+    "parentID": 1513,
+    "subjectName": "Велоштаны",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 2010,
+    "parentID": 6945,
+    "subjectName": "Веники для бани",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 7193,
+    "parentID": 6946,
+    "subjectName": "Веники садовые",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 273,
+    "parentID": 257,
+    "subjectName": "Венки декоративные",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 8515,
+    "parentID": 1465,
+    "subjectName": "Венки для волос",
+    "parentName": "Аксессуары для волос"
+  },
+  {
+    "subjectID": 8516,
+    "parentID": 8695,
+    "subjectName": "Венки ритуальные",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 5169,
+    "parentID": 2051,
+    "subjectName": "Вентили для радиаторов",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 9103,
+    "parentID": 8893,
+    "subjectName": "Вентили и переходники для шин авто",
+    "parentName": "Шины и диски"
+  },
+  {
+    "subjectID": 1192,
+    "parentID": 657,
+    "subjectName": "Вентиляторы",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 7789,
+    "parentID": 760,
+    "subjectName": "Вентиляторы автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7306,
+    "parentID": 2051,
+    "subjectName": "Вентиляторы для систем вентиляции",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 3553,
+    "parentID": 6261,
+    "subjectName": "Вентиляторы студийные",
+    "parentName": "Фото и Видеотехника"
+  },
+  {
+    "subjectID": 8472,
+    "parentID": 2051,
+    "subjectName": "Вентиляционно-осушительные коробки",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 4880,
+    "parentID": 8693,
+    "subjectName": "Венчальные наборы",
+    "parentName": "Текстиль для дома"
+  },
+  {
+    "subjectID": 992,
+    "parentID": 1590,
+    "subjectName": "Венчики",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 8706,
+    "parentID": 6945,
+    "subjectName": "Веранды и террасы",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 2452,
+    "parentID": 239,
+    "subjectName": "Веревки альпинистские",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2738,
+    "parentID": 1077,
+    "subjectName": "Веревки бельевые",
+    "parentName": "Хозяйственные товары"
+  },
+  {
+    "subjectID": 5121,
+    "parentID": 5038,
+    "subjectName": "Веревки для бондажа",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 7046,
+    "parentID": 6943,
+    "subjectName": "Веревки садовые",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 6439,
+    "parentID": 4268,
+    "subjectName": "Верёвочные перекладины",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 7206,
+    "parentID": 6943,
+    "subjectName": "Вермикулит",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 4068,
+    "parentID": 8751,
+    "subjectName": "Верстаки",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 7507,
+    "parentID": 4268,
+    "subjectName": "Вертикализаторы",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 5331,
+    "parentID": 723,
+    "subjectName": "Вертлюги для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 5330,
+    "parentID": 239,
+    "subjectName": "Вертлюги рыболовные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7366,
+    "parentID": 2050,
+    "subjectName": "Вертлюги такелажные",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 3723,
+    "parentID": 7,
+    "subjectName": "Вертушки детские",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 3938,
+    "parentID": 239,
+    "subjectName": "Вершинки фидерные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2766,
+    "parentID": 239,
+    "subjectName": "Весла",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 610,
+    "parentID": 657,
+    "subjectName": "Весы",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 3187,
+    "parentID": 883,
+    "subjectName": "Весы детские",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 4014,
+    "parentID": 2479,
+    "subjectName": "Весы торговые",
+    "parentName": "Мебель офисная и торговое оборудование"
+  },
+  {
+    "subjectID": 6231,
+    "parentID": 2479,
+    "subjectName": "Весы ювелирные",
+    "parentName": "Мебель офисная и торговое оборудование"
+  },
+  {
+    "subjectID": 6564,
+    "parentID": 723,
+    "subjectName": "Ветеринарные защитные перчатки",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 6845,
+    "parentID": 723,
+    "subjectName": "Ветеринарные инструменты и оборудование",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 2916,
+    "parentID": 723,
+    "subjectName": "Ветеринарные паспорта",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 172,
+    "parentID": 1,
+    "subjectName": "Ветровки",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 4531,
+    "parentID": 4607,
+    "subjectName": "Ветровки для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 4028,
+    "parentID": 239,
+    "subjectName": "Ветрозащитные экраны",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6551,
+    "parentID": 3109,
+    "subjectName": "Ветчина",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2789,
+    "parentID": 1590,
+    "subjectName": "Ветчинницы",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 3206,
+    "parentID": 8891,
+    "subjectName": "Вешалки автомобильные",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 8216,
+    "parentID": 8746,
+    "subjectName": "Вешалки встраиваемые",
+    "parentName": "Мебель корпусная и мебель для хранения"
+  },
+  {
+    "subjectID": 6775,
+    "parentID": 723,
+    "subjectName": "Вешалки для одежды животным",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 5662,
+    "parentID": 657,
+    "subjectName": "Вешалки для отпаривателей",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 7083,
+    "parentID": 1605,
+    "subjectName": "Вешалки для спортивной формы",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 6051,
+    "parentID": 1598,
+    "subjectName": "Вешалки на дверь",
+    "parentName": "Хранение вещей"
+  },
+  {
+    "subjectID": 1895,
+    "parentID": 8746,
+    "subjectName": "Вешалки напольные",
+    "parentName": "Мебель корпусная и мебель для хранения"
+  },
+  {
+    "subjectID": 6548,
+    "parentID": 8746,
+    "subjectName": "Вешалки настенные",
+    "parentName": "Мебель корпусная и мебель для хранения"
+  },
+  {
+    "subjectID": 936,
+    "parentID": 1598,
+    "subjectName": "Вешалки-плечики",
+    "parentName": "Хранение вещей"
+  },
+  {
+    "subjectID": 5067,
+    "parentID": 5038,
+    "subjectName": "Вибраторы",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 4083,
+    "parentID": 8751,
+    "subjectName": "Вибраторы глубинные",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 1402,
+    "parentID": 239,
+    "subjectName": "Виброгасители",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7792,
+    "parentID": 760,
+    "subjectName": "Виброгасители автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 5191,
+    "parentID": 8891,
+    "subjectName": "Вибропоглощающий материал для авто",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 5116,
+    "parentID": 5038,
+    "subjectName": "Вибропули",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 8099,
+    "parentID": 8751,
+    "subjectName": "Вибротехника",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 5129,
+    "parentID": 5038,
+    "subjectName": "Вибротрусики",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5118,
+    "parentID": 5038,
+    "subjectName": "Виброяйца",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 4528,
+    "parentID": 6259,
+    "subjectName": "Видеоглазки",
+    "parentName": "Умный дом и безопасность"
+  },
+  {
+    "subjectID": 1135,
+    "parentID": 8995,
+    "subjectName": "Видеодиски",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 1530,
+    "parentID": 6259,
+    "subjectName": "Видеодомофоны",
+    "parentName": "Умный дом и безопасность"
+  },
+  {
+    "subjectID": 3152,
+    "parentID": 6259,
+    "subjectName": "Видеокамеры цифровые",
+    "parentName": "Умный дом и безопасность"
+  },
+  {
+    "subjectID": 3274,
+    "parentID": 6238,
+    "subjectName": "Видеокарты",
+    "parentName": "Ноутбуки и компьютеры"
+  },
+  {
+    "subjectID": 902,
+    "parentID": 883,
+    "subjectName": "Видеоняни",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 600,
+    "parentID": 6240,
+    "subjectName": "Видеорегистраторы автомобильные",
+    "parentName": "Автоэлектроника"
+  },
+  {
+    "subjectID": 6741,
+    "parentID": 6240,
+    "subjectName": "Видеорегистраторы для мотоциклов",
+    "parentName": "Автоэлектроника"
+  },
+  {
+    "subjectID": 4989,
+    "parentID": 6261,
+    "subjectName": "Видеорегистраторы персональные",
+    "parentName": "Фото и Видеотехника"
+  },
+  {
+    "subjectID": 2355,
+    "parentID": 6259,
+    "subjectName": "Видеорегистраторы цифровые",
+    "parentName": "Умный дом и безопасность"
+  },
+  {
+    "subjectID": 3894,
+    "parentID": 8995,
+    "subjectName": "Видеоувеличители",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6940,
+    "parentID": 6238,
+    "subjectName": "Видеочипы",
+    "parentName": "Ноутбуки и компьютеры"
+  },
+  {
+    "subjectID": 2804,
+    "parentID": 8751,
+    "subjectName": "Видеоэндоскопы",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 316,
+    "parentID": 3,
+    "subjectName": "Визитницы",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 4520,
+    "parentID": 239,
+    "subjectName": "Визоры",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4762,
+    "parentID": 239,
+    "subjectName": "Вилки амортизационные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 8149,
+    "parentID": 760,
+    "subjectName": "Вилки возвратные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 1790,
+    "parentID": 1590,
+    "subjectName": "Вилки десертные",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 6469,
+    "parentID": 723,
+    "subjectName": "Вилки для распечатывания сот",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 4407,
+    "parentID": 239,
+    "subjectName": "Вилки для самокатов",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4462,
+    "parentID": 8891,
+    "subjectName": "Вилки для фаркопов",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 1772,
+    "parentID": 1590,
+    "subjectName": "Вилки поварские",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 4763,
+    "parentID": 239,
+    "subjectName": "Вилки ригидные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1229,
+    "parentID": 6946,
+    "subjectName": "Вилки садовые",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 4223,
+    "parentID": 9081,
+    "subjectName": "Вилки силовые",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 1786,
+    "parentID": 1590,
+    "subjectName": "Вилки столовые",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 7188,
+    "parentID": 6946,
+    "subjectName": "Вилы",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 4705,
+    "parentID": 723,
+    "subjectName": "Вилы для уборки",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 6968,
+    "parentID": 3109,
+    "subjectName": "Вина безалкогольные",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 6969,
+    "parentID": 3109,
+    "subjectName": "Вина игристые безалкогольные",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 2675,
+    "parentID": 6260,
+    "subjectName": "Виниловые пластинки",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 7122,
+    "parentID": 8555,
+    "subjectName": "Виниловые полы",
+    "parentName": "Отделочные материалы"
+  },
+  {
+    "subjectID": 1996,
+    "parentID": 6260,
+    "subjectName": "Виниловые проигрыватели",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 6496,
+    "parentID": 4268,
+    "subjectName": "Виниры накладные",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 5781,
+    "parentID": 5495,
+    "subjectName": "Винные шкафы",
+    "parentName": "Крупная бытовая техника"
+  },
+  {
+    "subjectID": 3736,
+    "parentID": 1590,
+    "subjectName": "Виномеры",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 7362,
+    "parentID": 2050,
+    "subjectName": "Винты",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 7308,
+    "parentID": 2050,
+    "subjectName": "Винты-конфирматы",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 7794,
+    "parentID": 760,
+    "subjectName": "Винты сливного отверстия",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7008,
+    "parentID": 3324,
+    "subjectName": "Виолончели",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 844,
+    "parentID": 8995,
+    "subjectName": "Виртуальные очки",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 8344,
+    "parentID": 723,
+    "subjectName": "Витамины для сельскохозяйственных животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 3227,
+    "parentID": 723,
+    "subjectName": "Витамины и добавки для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 8326,
+    "parentID": 8746,
+    "subjectName": "Витрины",
+    "parentName": "Мебель корпусная и мебель для хранения"
+  },
+  {
+    "subjectID": 3593,
+    "parentID": 6946,
+    "subjectName": "Вкладыши в бочку",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 4168,
+    "parentID": 239,
+    "subjectName": "Вкладыши в спальные мешки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5608,
+    "parentID": 1590,
+    "subjectName": "Вкладыши для посуды",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 5525,
+    "parentID": 739,
+    "subjectName": "Вкладыши для сапог",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 5187,
+    "parentID": 4268,
+    "subjectName": "Вкладыши для слуховых аппаратов",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 4453,
+    "parentID": 239,
+    "subjectName": "Вкладыши для тормозных колодок",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 6300,
+    "parentID": 760,
+    "subjectName": "Вкладыши картера двигателя",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 6268,
+    "parentID": 760,
+    "subjectName": "Вкладыши коленвала",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7795,
+    "parentID": 760,
+    "subjectName": "Вкладыши нижней головки шатуна",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7796,
+    "parentID": 760,
+    "subjectName": "Вкладыши подшипника коленвала",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 5800,
+    "parentID": 4268,
+    "subjectName": "Вкладыши после мастэктомии",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 550,
+    "parentID": 4,
+    "subjectName": "Вкладыши пуш-ап",
+    "parentName": "Белье"
+  },
+  {
+    "subjectID": 8478,
+    "parentID": 1077,
+    "subjectName": "Влажная туалетная бумага",
+    "parentName": "Хозяйственные товары"
+  },
+  {
+    "subjectID": 953,
+    "parentID": 49,
+    "subjectName": "Влажные салфетки",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3267,
+    "parentID": 723,
+    "subjectName": "Влажные салфетки для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 5024,
+    "parentID": 6238,
+    "subjectName": "Внешние SSD-накопители",
+    "parentName": "Ноутбуки и компьютеры"
+  },
+  {
+    "subjectID": 468,
+    "parentID": 8995,
+    "subjectName": "Внешние аккумуляторы",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 982,
+    "parentID": 6238,
+    "subjectName": "Внешние жесткие диски",
+    "parentName": "Ноутбуки и компьютеры"
+  },
+  {
+    "subjectID": 6455,
+    "parentID": 8995,
+    "subjectName": "Внешние звуковые карты",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 5320,
+    "parentID": 6238,
+    "subjectName": "Внутренние SSD-накопители",
+    "parentName": "Ноутбуки и компьютеры"
+  },
+  {
+    "subjectID": 5556,
+    "parentID": 4268,
+    "subjectName": "Внутриматочные спирали",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 2501,
+    "parentID": 239,
+    "subjectName": "Воблеры",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2646,
+    "parentID": 2638,
+    "subjectName": "Вода детская",
+    "parentName": "Детское питание"
+  },
+  {
+    "subjectID": 1997,
+    "parentID": 8614,
+    "subjectName": "Вода для утюгов",
+    "parentName": "Бытовая химия"
+  },
+  {
+    "subjectID": 3411,
+    "parentID": 3109,
+    "subjectName": "Вода питьевая",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 153,
+    "parentID": 1,
+    "subjectName": "Водолазки",
+    "parentName": "Одежда"
+  },
+  {
+    "subjectID": 4637,
+    "parentID": 4607,
+    "subjectName": "Водолазки для малышей",
+    "parentName": "Одежда для малышей"
+  },
+  {
+    "subjectID": 5205,
+    "parentID": 1513,
+    "subjectName": "Водолазки спортивные",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 1414,
+    "parentID": 657,
+    "subjectName": "Водонагреватели",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 4674,
+    "parentID": 6945,
+    "subjectName": "Водонагреватели для бассейнов",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 1074,
+    "parentID": 49,
+    "subjectName": "Водоросли косметические",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3323,
+    "parentID": 3109,
+    "subjectName": "Водоросли морские",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 9102,
+    "parentID": 8891,
+    "subjectName": "Водосгоны автомобильные",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 7305,
+    "parentID": 2050,
+    "subjectName": "Водосточные системы",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 1467,
+    "parentID": 883,
+    "subjectName": "Вожжи",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 5948,
+    "parentID": 5038,
+    "subjectName": "Возбуждающие напитки",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5478,
+    "parentID": 5038,
+    "subjectName": "Возбуждающие препараты",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 5779,
+    "parentID": 5038,
+    "subjectName": "Возбуждающие средства",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 7790,
+    "parentID": 760,
+    "subjectName": "Воздуховоды автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7342,
+    "parentID": 2051,
+    "subjectName": "Воздуховоды вентиляционные",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 5666,
+    "parentID": 1521,
+    "subjectName": "Воздуховоды для вытяжек",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 1234,
+    "parentID": 2240,
+    "subjectName": "Воздуходувки",
+    "parentName": "Садовая техника"
+  },
+  {
+    "subjectID": 3951,
+    "parentID": 7,
+    "subjectName": "Воздушные змеи",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 1834,
+    "parentID": 257,
+    "subjectName": "Воздушные шарики",
+    "parentName": "Для праздника"
+  },
+  {
+    "subjectID": 6102,
+    "parentID": 3109,
+    "subjectName": "Воздушный рис",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 1824,
+    "parentID": 1590,
+    "subjectName": "Воки",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 2044,
+    "parentID": 239,
+    "subjectName": "Воланы",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 4306,
+    "parentID": 49,
+    "subjectName": "Волосы для наращивания",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3318,
+    "parentID": 723,
+    "subjectName": "Вольеры",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 1347,
+    "parentID": 1590,
+    "subjectName": "Воронки",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 3092,
+    "parentID": 8891,
+    "subjectName": "Воронки автомобильные",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 4666,
+    "parentID": 1590,
+    "subjectName": "Воронки для выпечки",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 5152,
+    "parentID": 1590,
+    "subjectName": "Воронки для кофе",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 8552,
+    "parentID": 2050,
+    "subjectName": "Ворота",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 1574,
+    "parentID": 239,
+    "subjectName": "Ворота спортивные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3667,
+    "parentID": 1162,
+    "subjectName": "Воротки",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 431,
+    "parentID": 3,
+    "subjectName": "Воротники",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 727,
+    "parentID": 723,
+    "subjectName": "Воротники для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 5617,
+    "parentID": 49,
+    "subjectName": "Воротники для мойки",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1934,
+    "parentID": 49,
+    "subjectName": "Воск для бровей",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 1248,
+    "parentID": 49,
+    "subjectName": "Воск для депиляции",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3276,
+    "parentID": 723,
+    "subjectName": "Воск для лап",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 750,
+    "parentID": 739,
+    "subjectName": "Воск для обуви",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 6199,
+    "parentID": 8695,
+    "subjectName": "Воски ароматические",
+    "parentName": "Декор интерьера"
+  },
+  {
+    "subjectID": 3809,
+    "parentID": 4268,
+    "subjectName": "Воски для брекетов",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 1668,
+    "parentID": 49,
+    "subjectName": "Воски для волос",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 7326,
+    "parentID": 8555,
+    "subjectName": "Воски для дерева",
+    "parentName": "Отделочные материалы"
+  },
+  {
+    "subjectID": 1942,
+    "parentID": 49,
+    "subjectName": "Воски для ногтей",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 6354,
+    "parentID": 1284,
+    "subjectName": "Воски для свечей",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 6393,
+    "parentID": 1605,
+    "subjectName": "Воски для серфинга",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 2626,
+    "parentID": 49,
+    "subjectName": "Восковые полоски",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3493,
+    "parentID": 657,
+    "subjectName": "Воскоплавы",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 4351,
+    "parentID": 8614,
+    "subjectName": "Восстановители кожи",
+    "parentName": "Бытовая химия"
+  },
+  {
+    "subjectID": 8485,
+    "parentID": 1162,
+    "subjectName": "Восстановление резьбы",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 1469,
+    "parentID": 883,
+    "subjectName": "Впитывающие вкладыши для подгузников",
+    "parentName": "Товары для малышей"
+  },
+  {
+    "subjectID": 7800,
+    "parentID": 760,
+    "subjectName": "Впрыскивающие элементы",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7801,
+    "parentID": 760,
+    "subjectName": "Впускные коллекторы",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7803,
+    "parentID": 760,
+    "subjectName": "Впускные трубы",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 274,
+    "parentID": 1605,
+    "subjectName": "Вратарские перчатки",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 5558,
+    "parentID": 2051,
+    "subjectName": "Врезки вентиляционные",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 796,
+    "parentID": 49,
+    "subjectName": "Временные татуировки и стразы",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 7804,
+    "parentID": 8891,
+    "subjectName": "Всасывающие шноркели",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 7805,
+    "parentID": 760,
+    "subjectName": "Вспомогательные передачи",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 2138,
+    "parentID": 8995,
+    "subjectName": "Вспышки для камер",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6733,
+    "parentID": 8891,
+    "subjectName": "Вставки в монтажную головку",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 7926,
+    "parentID": 760,
+    "subjectName": "Вставки в противотуманные фары",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 2836,
+    "parentID": 4268,
+    "subjectName": "Вставки для большого пальца",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 9057,
+    "parentID": 9081,
+    "subjectName": "Вторичная оптика",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 7808,
+    "parentID": 760,
+    "subjectName": "Втулки автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 4133,
+    "parentID": 239,
+    "subjectName": "Втулки велосипедные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5424,
+    "parentID": 239,
+    "subjectName": "Втулки для лыжероллеров",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5667,
+    "parentID": 1521,
+    "subjectName": "Втулки для мясорубок",
+    "parentName": "Техника для кухни"
+  },
+  {
+    "subjectID": 8385,
+    "parentID": 6946,
+    "subjectName": "Выжигатели сорняков",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 7809,
+    "parentID": 760,
+    "subjectName": "Выжимные подшипники",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 4167,
+    "parentID": 9081,
+    "subjectName": "Выключатели автоматические",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 7811,
+    "parentID": 760,
+    "subjectName": "Выключатели автомобильные",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 1149,
+    "parentID": 9081,
+    "subjectName": "Выключатели механические",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 2200,
+    "parentID": 9081,
+    "subjectName": "Выключатели электронные",
+    "parentName": "Электрика"
+  },
+  {
+    "subjectID": 4294,
+    "parentID": 1162,
+    "subjectName": "Выколотки",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 5984,
+    "parentID": 1284,
+    "subjectName": "Выкройки для рукоделия",
+    "parentName": "Рукоделие"
+  },
+  {
+    "subjectID": 2470,
+    "parentID": 2479,
+    "subjectName": "Выносные дисплеи",
+    "parentName": "Мебель офисная и торговое оборудование"
+  },
+  {
+    "subjectID": 1376,
+    "parentID": 239,
+    "subjectName": "Выносы велосипедные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2314,
+    "parentID": 657,
+    "subjectName": "Выпрямители волос",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 7287,
+    "parentID": 2051,
+    "subjectName": "Выпуски для раковин",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 7802,
+    "parentID": 760,
+    "subjectName": "Выпускные газопроводы",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7651,
+    "parentID": 239,
+    "subjectName": "Высотомеры",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 8984,
+    "parentID": 6946,
+    "subjectName": "Высоторезы",
+    "parentName": "Садовые инструменты и полив"
+  },
+  {
+    "subjectID": 3237,
+    "parentID": 723,
+    "subjectName": "Выставочные палатки для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 2184,
+    "parentID": 5495,
+    "subjectName": "Вытяжки кухонные",
+    "parentName": "Крупная бытовая техника"
+  },
+  {
+    "subjectID": 5455,
+    "parentID": 657,
+    "subjectName": "Вышивальные машины",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 8511,
+    "parentID": 1162,
+    "subjectName": "Вышки-туры",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 5456,
+    "parentID": 657,
+    "subjectName": "Вязальные машины",
+    "parentName": "Бытовая техника"
+  },
+  {
+    "subjectID": 8059,
+    "parentID": 760,
+    "subjectName": "Габаритные огни",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 9039,
+    "parentID": 239,
+    "subjectName": "Газ для страйкбольного оружия",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 1392,
+    "parentID": 1598,
+    "subjectName": "Газетницы",
+    "parentName": "Хранение вещей"
+  },
+  {
+    "subjectID": 6064,
+    "parentID": 2479,
+    "subjectName": "Газлифты для офисных кресел",
+    "parentName": "Мебель офисная и торговое оборудование"
+  },
+  {
+    "subjectID": 3358,
+    "parentID": 1162,
+    "subjectName": "Газоанализаторы",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 7579,
+    "parentID": 239,
+    "subjectName": "Газовые баллончики учебные",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5719,
+    "parentID": 6945,
+    "subjectName": "Газовые баллоны",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 6227,
+    "parentID": 4268,
+    "subjectName": "Газовые баллоны медицинские",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 1294,
+    "parentID": 239,
+    "subjectName": "Газовые горелки туристические",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2853,
+    "parentID": 239,
+    "subjectName": "Газовые грили туристические",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2854,
+    "parentID": 239,
+    "subjectName": "Газовые лампы",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2855,
+    "parentID": 239,
+    "subjectName": "Газовые обогреватели туристические",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2852,
+    "parentID": 239,
+    "subjectName": "Газовые плиты туристические",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 8742,
+    "parentID": 6943,
+    "subjectName": "Газонные травы и сидераты",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 1233,
+    "parentID": 2240,
+    "subjectName": "Газонокосилки",
+    "parentName": "Садовая техника"
+  },
+  {
+    "subjectID": 7180,
+    "parentID": 6943,
+    "subjectName": "Газоны искусственные",
+    "parentName": "Все для садоводства"
+  },
+  {
+    "subjectID": 8060,
+    "parentID": 760,
+    "subjectName": "Газораспределительные заслонки",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 7363,
+    "parentID": 2050,
+    "subjectName": "Гайки",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 3838,
+    "parentID": 8891,
+    "subjectName": "Гайки секретные",
+    "parentName": "Автоаксессуары и дополнительное оборудование"
+  },
+  {
+    "subjectID": 3748,
+    "parentID": 8751,
+    "subjectName": "Гайковерты",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 6914,
+    "parentID": 1162,
+    "subjectName": "Гайколомы",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 749,
+    "parentID": 2,
+    "subjectName": "Галоши",
+    "parentName": "Обувь"
+  },
+  {
+    "subjectID": 62,
+    "parentID": 3,
+    "subjectName": "Галстуки",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 5042,
+    "parentID": 5038,
+    "subjectName": "Галстуки эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 513,
+    "parentID": 239,
+    "subjectName": "Гамаки",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 3472,
+    "parentID": 723,
+    "subjectName": "Гамаки для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 4889,
+    "parentID": 239,
+    "subjectName": "Гамаки для йоги",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 2846,
+    "parentID": 8693,
+    "subjectName": "Гамаки для ног",
+    "parentName": "Текстиль для дома"
+  },
+  {
+    "subjectID": 4390,
+    "parentID": 1513,
+    "subjectName": "Гамаши",
+    "parentName": "Спортивная одежда"
+  },
+  {
+    "subjectID": 855,
+    "parentID": 239,
+    "subjectName": "Гантели",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 7555,
+    "parentID": 6945,
+    "subjectName": "Гаражи сборные",
+    "parentName": "Товары для отдыха и кемпинга"
+  },
+  {
+    "subjectID": 8750,
+    "parentID": 3,
+    "subjectName": "Гардеробные номерки",
+    "parentName": "Аксессуары"
+  },
+  {
+    "subjectID": 8450,
+    "parentID": 9091,
+    "subjectName": "Гардеробные системы",
+    "parentName": "Мебель на заказ"
+  },
+  {
+    "subjectID": 6572,
+    "parentID": 3324,
+    "subjectName": "Гармони",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 6571,
+    "parentID": 3324,
+    "subjectName": "Гармошки",
+    "parentName": "Профессиональные музыкальные инструменты"
+  },
+  {
+    "subjectID": 6602,
+    "parentID": 3109,
+    "subjectName": "Гарнир",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 518,
+    "parentID": 6260,
+    "subjectName": "Гарнитуры",
+    "parentName": "Телевизоры и аудиотехника"
+  },
+  {
+    "subjectID": 7594,
+    "parentID": 9091,
+    "subjectName": "Гарнитуры кухонные",
+    "parentName": "Мебель на заказ"
+  },
+  {
+    "subjectID": 3912,
+    "parentID": 239,
+    "subjectName": "Гарпуны",
+    "parentName": "Спортивный товар"
+  },
+  {
+    "subjectID": 5052,
+    "parentID": 5038,
+    "subjectName": "Гартеры эротик",
+    "parentName": "Товары для взрослых"
+  },
+  {
+    "subjectID": 8061,
+    "parentID": 760,
+    "subjectName": "Гасители пульсаций",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 6089,
+    "parentID": 1590,
+    "subjectName": "Гастроемкости",
+    "parentName": "Посуда и инвентарь"
+  },
+  {
+    "subjectID": 4105,
+    "parentID": 2050,
+    "subjectName": "Гвозди",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 4109,
+    "parentID": 2050,
+    "subjectName": "Гвозди для инструмента",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 2387,
+    "parentID": 1162,
+    "subjectName": "Гвоздодеры",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 7267,
+    "parentID": 3109,
+    "subjectName": "Гедза",
+    "parentName": "Продукты"
+  },
+  {
+    "subjectID": 524,
+    "parentID": 6256,
+    "subjectName": "Геймпады",
+    "parentName": "Игровые консоли и игры"
+  },
+  {
+    "subjectID": 1108,
+    "parentID": 1081,
+    "subjectName": "Гейнеры",
+    "parentName": "Спортивное питание и косметика"
+  },
+  {
+    "subjectID": 698,
+    "parentID": 739,
+    "subjectName": "Гелевые вставки",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 686,
+    "parentID": 739,
+    "subjectName": "Гелевые подушечки",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 699,
+    "parentID": 739,
+    "subjectName": "Гелевые полоски",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 1679,
+    "parentID": 739,
+    "subjectName": "Гелевые полустельки",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 700,
+    "parentID": 739,
+    "subjectName": "Гелевые стельки",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 363,
+    "parentID": 49,
+    "subjectName": "Гели",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 6696,
+    "parentID": 4268,
+    "subjectName": "Гели акушерские",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 1926,
+    "parentID": 49,
+    "subjectName": "Гели для бритья",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 4837,
+    "parentID": 49,
+    "subjectName": "Гели для бровей",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3279,
+    "parentID": 723,
+    "subjectName": "Гели для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 6912,
+    "parentID": 8995,
+    "subjectName": "Гели для защитных стекол",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 6350,
+    "parentID": 4268,
+    "subjectName": "Гели для зубов/десен",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 2135,
+    "parentID": 49,
+    "subjectName": "Гели для моделирования ногтей",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 681,
+    "parentID": 739,
+    "subjectName": "Гели для обуви",
+    "parentName": "Аксессуары для обуви"
+  },
+  {
+    "subjectID": 3524,
+    "parentID": 8614,
+    "subjectName": "Гели для посудомоечных машин",
+    "parentName": "Бытовая химия"
+  },
+  {
+    "subjectID": 1080,
+    "parentID": 8614,
+    "subjectName": "Гели для стирки",
+    "parentName": "Бытовая химия"
+  },
+  {
+    "subjectID": 3538,
+    "parentID": 8614,
+    "subjectName": "Гели для уборки",
+    "parentName": "Бытовая химия"
+  },
+  {
+    "subjectID": 3314,
+    "parentID": 723,
+    "subjectName": "Гели лечебные для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 3643,
+    "parentID": 1081,
+    "subjectName": "Гели пищевые",
+    "parentName": "Спортивное питание и косметика"
+  },
+  {
+    "subjectID": 2306,
+    "parentID": 49,
+    "subjectName": "Гель-краски для ногтей",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 721,
+    "parentID": 49,
+    "subjectName": "Гель-лаки",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 3863,
+    "parentID": 8751,
+    "subjectName": "Генераторы",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 3536,
+    "parentID": 8995,
+    "subjectName": "Генераторы водородной воды",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 8062,
+    "parentID": 760,
+    "subjectName": "Генераторы в сборе",
+    "parentName": "Автозапчасти"
+  },
+  {
+    "subjectID": 8624,
+    "parentID": 6731,
+    "subjectName": "Генераторы для мототехники",
+    "parentName": "Мототовары"
+  },
+  {
+    "subjectID": 6856,
+    "parentID": 723,
+    "subjectName": "Генераторы импульсов",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 3577,
+    "parentID": 8995,
+    "subjectName": "Генераторы мыльных пузырей",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 5254,
+    "parentID": 8995,
+    "subjectName": "Генераторы снега",
+    "parentName": "Аксессуары для электроники"
+  },
+  {
+    "subjectID": 3706,
+    "parentID": 7,
+    "subjectName": "Геоборды",
+    "parentName": "Игрушки"
+  },
+  {
+    "subjectID": 5991,
+    "parentID": 2050,
+    "subjectName": "Герметизирующие кровельные ленты",
+    "parentName": "Строительные материалы"
+  },
+  {
+    "subjectID": 2401,
+    "parentID": 8555,
+    "subjectName": "Герметики",
+    "parentName": "Отделочные материалы"
+  },
+  {
+    "subjectID": 8151,
+    "parentID": 8896,
+    "subjectName": "Герметики автомобильные",
+    "parentName": "Автохимия и автокосметика"
+  },
+  {
+    "subjectID": 4873,
+    "parentID": 1605,
+    "subjectName": "Герметики спортивные",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 5707,
+    "parentID": 1605,
+    "subjectName": "Гермоаптечки",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 2126,
+    "parentID": 1605,
+    "subjectName": "Гермомешки",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 3956,
+    "parentID": 1605,
+    "subjectName": "Герморюкзаки",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 3958,
+    "parentID": 1605,
+    "subjectName": "Гермосумки",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 3957,
+    "parentID": 1605,
+    "subjectName": "Гермочехлы",
+    "parentName": "Спортивные аксессуары"
+  },
+  {
+    "subjectID": 252,
+    "parentID": 4,
+    "subjectName": "Гетры",
+    "parentName": "Белье"
+  },
+  {
+    "subjectID": 6170,
+    "parentID": 723,
+    "subjectName": "Гетры для животных",
+    "parentName": "Товары для животных"
+  },
+  {
+    "subjectID": 7103,
+    "parentID": 8751,
+    "subjectName": "Гибочные станки",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 9013,
+    "parentID": 4268,
+    "subjectName": "Гигиенические изделия",
+    "parentName": "Здоровье"
+  },
+  {
+    "subjectID": 2665,
+    "parentID": 8614,
+    "subjectName": "Гигиенические освежители для унитаза",
+    "parentName": "Бытовая химия"
+  },
+  {
+    "subjectID": 8534,
+    "parentID": 2051,
+    "subjectName": "Гигиенические поддоны под мойку",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 1921,
+    "parentID": 49,
+    "subjectName": "Гигиенические помады",
+    "parentName": "Красота"
+  },
+  {
+    "subjectID": 2258,
+    "parentID": 1162,
+    "subjectName": "Гигрометры",
+    "parentName": "Ручной инструмент и оснастка"
+  },
+  {
+    "subjectID": 6769,
+    "parentID": 8751,
+    "subjectName": "Гидравлическое оборудование",
+    "parentName": "Электроинструмент и оборудование"
+  },
+  {
+    "subjectID": 6929,
+    "parentID": 2051,
+    "subjectName": "Гидроаккумуляторы",
+    "parentName": "Сантехника"
+  },
+  {
+    "subjectID": 8064,
+    "parentID": 760,
+    "subjectName": "Гидроаккумуляторы автомобильные",
+    "parentName": "Автозапчасти"
+  }
+]
