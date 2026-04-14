@@ -1,0 +1,102 @@
+{
+  "created_at": "2026-04-12",
+  "profile": {
+    "url": "https://wibes.ru/author/4275108",
+    "name": "GravMix",
+    "handle": "@gravmix-gifts-ru",
+    "bio": "Подарки с реальной гравировкой. Браслеты и брелоки для сына, дочери, пары и близких.",
+    "avatar": "C:/Users/GravMix/Desktop/photo_2025-11-04_21-11-26.jpg"
+  },
+  "first_live_clip": {
+    "sku": 939855999,
+    "intent": "дочери от папы",
+    "url": "https://wibes.ru/author/4275108/clips/podarok-docheri-ot-papy-cherniy-kauchukoviy-braslet-s-5169758?location=author"
+  },
+  "second_live_clip": {
+    "sku": 219234076,
+    "intent": "сыну от мамы",
+    "url": "https://wibes.ru/author/4275108/clips/podarok-synu-ot-mamy-cherniy-pleteniy-braslet-s-gra-5173890?location=author",
+    "style": "trend-style creator-native emotional commerce short",
+    "asset_mp4": "C:/Users/GravMix/.gemini/antigravity/playground/core-pulsar/obsidian/Wibes_Trend_20260412/219234076_synu_ot_mamy_trend/wibes_trend_219234076_20260412.mp4",
+    "asset_poster": "C:/Users/GravMix/.gemini/antigravity/playground/core-pulsar/obsidian/Wibes_Trend_20260412/219234076_synu_ot_mamy_trend/wibes_trend_219234076_20260412_poster.png"
+  },
+  "priority_queue": [
+    {
+      "order": 1,
+      "sku": 939855999,
+      "intent": "family",
+      "theme": "дочери от папы",
+      "status": "live"
+    },
+    {
+      "order": 2,
+      "sku": 219234076,
+      "intent": "family",
+      "theme": "сыну от мамы",
+      "status": "live"
+    },
+    {
+      "order": 3,
+      "sku": 338840769,
+      "intent": "family",
+      "theme": "наш сыночек",
+      "status": "ready"
+    },
+    {
+      "order": 4,
+      "sku": 259605230,
+      "intent": "family",
+      "theme": "доченька кусочек сердца",
+      "status": "ready"
+    },
+    {
+      "order": 5,
+      "sku": 296257123,
+      "intent": "family",
+      "theme": "сыночек кусочек сердца",
+      "status": "ready"
+    },
+    {
+      "order": 6,
+      "sku": 473470031,
+      "intent": "pair-family",
+      "theme": "для сына и дочери",
+      "status": "ready"
+    },
+    {
+      "order": 7,
+      "sku": 251424692,
+      "intent": "prayer",
+      "theme": "Псалом 90",
+      "status": "ready"
+    },
+    {
+      "order": 8,
+      "sku": 251735605,
+      "intent": "prayer",
+      "theme": "Ангелу Хранителю",
+      "status": "ready"
+    },
+    {
+      "order": 9,
+      "sku": 301401647,
+      "intent": "romantic-cultural",
+      "theme": "Я люблю тебя",
+      "status": "ready"
+    },
+    {
+      "order": 10,
+      "sku": 267763905,
+      "intent": "zodiac",
+      "theme": "Скорпион",
+      "status": "ready"
+    },
+    {
+      "order": 11,
+      "sku": 267766952,
+      "intent": "zodiac",
+      "theme": "Овен",
+      "status": "ready"
+    }
+  ]
+}

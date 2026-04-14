@@ -1,0 +1,140 @@
+{
+  "source": "C:\\Users\\GravMix\\Desktop\\CodexMain\\marketplace-missing-card-system\\data_dump\\generated_card_packs.json",
+  "generated_count": 19,
+  "output_dir": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts",
+  "items": [
+    {
+      "card_pack_id": "draft-0002",
+      "title": "Браслет для мамы с гравировкой",
+      "product_class": "gift_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-для-мамы-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-для-мамы-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0013",
+      "title": "Браслет Близнецы знак зодиака подарок мужу",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-близнецы-знак-зодиака-подарок-мужу.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-близнецы-знак-зодиака-подарок-мужу.md"
+    },
+    {
+      "card_pack_id": "draft-0005",
+      "title": "Браслет Лев знак зодиака подарок мужу",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-лев-знак-зодиака-подарок-мужу.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-лев-знак-зодиака-подарок-мужу.md"
+    },
+    {
+      "card_pack_id": "draft-0018",
+      "title": "Браслет Весы знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-весы-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-весы-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0016",
+      "title": "Браслет Водолей знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-водолеи-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-водолеи-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0010",
+      "title": "Браслет Дева знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-дева-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-дева-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0014",
+      "title": "Браслет Козерог знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-козерог-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-козерог-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0008",
+      "title": "Браслет Овен знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-овен-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-овен-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0017",
+      "title": "Браслет Рак знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-рак-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-рак-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0012",
+      "title": "Браслет Рыбы знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-рыбы-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-рыбы-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0019",
+      "title": "Браслет Скорпион знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-скорпион-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-скорпион-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0015",
+      "title": "Браслет Стрелец знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-стрелец-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-стрелец-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0011",
+      "title": "Браслет Телец знак зодиака с гравировкой",
+      "product_class": "zodiac_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-телец-знак-зодиака-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-телец-знак-зодиака-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0035",
+      "title": "Браслет для дочери с гравировкой",
+      "product_class": "gift_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-для-дочери-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-для-дочери-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0020",
+      "title": "Браслет для друга с гравировкой",
+      "product_class": "gift_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-для-друга-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-для-друга-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0022",
+      "title": "Браслет для мужа с гравировкой",
+      "product_class": "gift_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-для-мужа-с-гравировкои.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-для-мужа-с-гравировкои.md"
+    },
+    {
+      "card_pack_id": "draft-0024",
+      "title": "Браслет Ангелу Хранителю для мужа",
+      "product_class": "prayer_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-ангелу-хранителю-для-мужа.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-ангелу-хранителю-для-мужа.md"
+    },
+    {
+      "card_pack_id": "draft-0025",
+      "title": "Браслет Псалом 90 для мужа",
+      "product_class": "prayer_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-псалом-90-для-мужа.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-псалом-90-для-мужа.md"
+    },
+    {
+      "card_pack_id": "draft-0045",
+      "title": "Браслет с гравировкой для друга",
+      "product_class": "prayer_bracelet",
+      "gemini_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\Gemini\\браслет-с-гравировкои-для-друга.md",
+      "chatgpt_note": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Ready_Prompts\\ChatGPT\\браслет-с-гравировкои-для-друга.md"
+    }
+  ]
+}

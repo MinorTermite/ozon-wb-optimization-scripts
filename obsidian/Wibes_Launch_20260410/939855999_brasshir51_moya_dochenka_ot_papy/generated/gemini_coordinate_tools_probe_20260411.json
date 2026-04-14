@@ -1,0 +1,51 @@
+{
+  "url": "https://gemini.google.com/u/5/app?pageId=none",
+  "title": "Google Gemini",
+  "text": "\n",
+  "metrics": {
+    "layoutViewport": {
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 2489,
+      "clientHeight": 1373
+    },
+    "visualViewport": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 2489,
+      "clientHeight": 1373,
+      "scale": 1,
+      "zoom": 1
+    },
+    "contentSize": {
+      "x": 0,
+      "y": 0,
+      "width": 2489,
+      "height": 1373
+    },
+    "cssLayoutViewport": {
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 1659,
+      "clientHeight": 915
+    },
+    "cssVisualViewport": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 1659.3333740234375,
+      "clientHeight": 915.3333740234375,
+      "scale": 1,
+      "zoom": 1
+    },
+    "cssContentSize": {
+      "x": 0,
+      "y": 0,
+      "width": 1659,
+      "height": 915
+    }
+  }
+}
