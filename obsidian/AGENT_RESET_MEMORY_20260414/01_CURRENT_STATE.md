@@ -4,10 +4,17 @@
 
 ## Git
 
-- Рабочая ветка для handoff-памяти: `codex/agent-reset-memory-20260414`
+- Рабочая ветка для handoff-памяти: `codex/ozon-obsidian-reset-memory-20260414`
 - Репозиторий грязный: в дереве уже много старых `modified` и `untracked` файлов.
 - Следующему агенту нельзя делать массовый `git add .` или пытаться "чистить" дерево.
 - Фиксировать только точечные релевантные файлы.
+
+## База reset-памяти
+
+- Общая marketplace-память уже существует:
+  - `obsidian/06_Marketplace_Context_Reset_Memory_20260414.md`
+  - `obsidian/07_Ozon_Context_Reset_Memory_20260414.md`
+- Текущая папка `AGENT_RESET_MEMORY_20260414` не заменяет их, а сжимает именно продуктовый и контентный handoff по браслетам, `Wibes`, `Gemini` и visual pipeline.
 
 ## Wibes
 

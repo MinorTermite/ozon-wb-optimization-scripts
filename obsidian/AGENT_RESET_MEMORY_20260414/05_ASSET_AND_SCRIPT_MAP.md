@@ -61,6 +61,8 @@ Exact-product output:
 
 1. `obsidian/AGENT_RESET_MEMORY_20260414/01_CURRENT_STATE.md`
 2. `obsidian/AGENT_RESET_MEMORY_20260414/02_PRODUCT_TRUTH_AND_NON_NEGOTIABLES.md`
-3. `obsidian/Wibes_Growth_OS_20260412/README.md`
-4. `obsidian/Wibes_Growth_OS_20260412/03_LAUNCH_QUEUE_20260412.md`
-5. `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.json`
+3. `obsidian/06_Marketplace_Context_Reset_Memory_20260414.md`
+4. `obsidian/07_Ozon_Context_Reset_Memory_20260414.md`
+5. `obsidian/Wibes_Growth_OS_20260412/README.md`
+6. `obsidian/Wibes_Growth_OS_20260412/03_LAUNCH_QUEUE_20260412.md`
+7. `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.json`

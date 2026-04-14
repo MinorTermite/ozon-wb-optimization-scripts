@@ -1,6 +1,6 @@
 {
   "date": "2026-04-14",
-  "branch": "codex/agent-reset-memory-20260414",
+  "branch": "codex/ozon-obsidian-reset-memory-20260414",
   "purpose": "Agent handoff memory after context reset",
   "primary_docs": [
     "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\01_CURRENT_STATE.md",
@@ -23,5 +23,9 @@
     "Do not mix bracelet form factors",
     "Use 21 cm for rubber bracelet on WB",
     "Use 22 cm for braided bracelet on WB"
+  ],
+  "related_reset_memory": [
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\06_Marketplace_Context_Reset_Memory_20260414.md",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\07_Ozon_Context_Reset_Memory_20260414.md"
   ]
 }
