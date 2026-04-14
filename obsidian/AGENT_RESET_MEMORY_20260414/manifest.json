@@ -1,0 +1,27 @@
+{
+  "date": "2026-04-14",
+  "branch": "codex/agent-reset-memory-20260414",
+  "purpose": "Agent handoff memory after context reset",
+  "primary_docs": [
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\01_CURRENT_STATE.md",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\02_PRODUCT_TRUTH_AND_NON_NEGOTIABLES.md",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\03_WIBES_PLAYBOOK.md",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\04_GEMINI_AND_VIDEO_LIMITS.md",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\05_ASSET_AND_SCRIPT_MAP.md"
+  ],
+  "critical_assets": {
+    "logo": "C:/Users/GravMix/Desktop/photo_2025-11-04_21-11-26.jpg",
+    "wibes_profile_log": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\output\\playwright\\wibes_profile_finalize_20260412.json",
+    "first_wibes_publish_log": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\output\\playwright\\wibes_publish_attempt_20260412.json",
+    "article_publish_log": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\output\\playwright\\wibes_publish_article_20260412.json",
+    "exact_product_video": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260414\\939855999_daughter_from_dad_exact\\wibes_exact_product_939855999_20260414.mp4",
+    "exact_product_poster": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260414\\939855999_daughter_from_dad_exact\\wibes_exact_product_939855999_20260414_poster.png"
+  },
+  "non_negotiables": [
+    "Do not trust generative models for final bracelet engraving fidelity",
+    "Do not change recipient semantics",
+    "Do not mix bracelet form factors",
+    "Use 21 cm for rubber bracelet on WB",
+    "Use 22 cm for braided bracelet on WB"
+  ]
+}
