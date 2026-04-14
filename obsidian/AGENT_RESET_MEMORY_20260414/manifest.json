@@ -1,13 +1,15 @@
 {
   "date": "2026-04-14",
-  "branch": "codex/context-reset-memory-20260414",
+  "branch": "codex/ozon-obsidian-reset-memory-20260414",
   "purpose": "Agent handoff memory after context reset",
   "primary_docs": [
     "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\01_CURRENT_STATE.md",
     "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\02_PRODUCT_TRUTH_AND_NON_NEGOTIABLES.md",
     "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\03_WIBES_PLAYBOOK.md",
     "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\04_GEMINI_AND_VIDEO_LIMITS.md",
-    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\05_ASSET_AND_SCRIPT_MAP.md"
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\05_ASSET_AND_SCRIPT_MAP.md",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\06_RESET_PROTOCOL.md",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\07_LOCAL_BINARY_ASSETS.md"
   ],
   "critical_assets": {
     "logo": "C:/Users/GravMix/Desktop/photo_2025-11-04_21-11-26.jpg",
@@ -15,7 +17,10 @@
     "first_wibes_publish_log": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\output\\playwright\\wibes_publish_attempt_20260412.json",
     "article_publish_log": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\output\\playwright\\wibes_publish_article_20260412.json",
     "exact_product_video": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260414\\939855999_daughter_from_dad_exact\\wibes_exact_product_939855999_20260414.mp4",
-    "exact_product_poster": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260414\\939855999_daughter_from_dad_exact\\wibes_exact_product_939855999_20260414_poster.png"
+    "exact_product_poster": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260414\\939855999_daughter_from_dad_exact\\wibes_exact_product_939855999_20260414_poster.png",
+    "launch_safe_crisp_video": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Launch_20260410\\939855999_brasshir51_moya_dochenka_ot_papy\\renders\\wibes_motion_939855999_20260412_safe_crisp_4k.mp4",
+    "trend_video": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Trend_20260412\\219234076_synu_ot_mamy_trend\\wibes_trend_219234076_20260412.mp4",
+    "local_binary_inventory": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\07_LOCAL_BINARY_ASSETS.md"
   },
   "non_negotiables": [
     "Do not trust generative models for final bracelet engraving fidelity",

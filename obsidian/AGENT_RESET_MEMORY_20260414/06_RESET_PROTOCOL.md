@@ -1,35 +1,37 @@
 # Reset Protocol
 
-## Зачем эта заметка
+## Why this note exists
 
-После сброса контекста агент обычно теряет время в трех местах:
-- заново пытается понять, какие браслеты вообще реальные;
-- снова тестирует `Gemini` там, где он уже доказанно ломает товар;
-- не понимает, что уже есть несколько слоев reset-памяти и production-папок.
+After context reset, the next agent usually wastes time in three places:
+- re-deriving which bracelets are real and commercially valid;
+- re-testing `Gemini` where it already failed product fidelity;
+- missing the fact that there are multiple reset-memory layers and local production assets.
 
-Эта заметка нужна, чтобы срезать эти потери.
+This note exists to cut that waste.
 
-## Минимальный порядок входа после reset
+## Minimal read order after reset
 
-1. Открыть `obsidian/AGENT_RESET_MEMORY_20260414/01_CURRENT_STATE.md`
-2. Открыть `obsidian/AGENT_RESET_MEMORY_20260414/02_PRODUCT_TRUTH_AND_NON_NEGOTIABLES.md`
-3. Открыть `obsidian/06_Marketplace_Context_Reset_Memory_20260414.md`
-4. Открыть `obsidian/07_Ozon_Context_Reset_Memory_20260414.md`
-5. Открыть `obsidian/Wibes_Growth_OS_20260412/README.md`
-6. Открыть `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.json`
+1. Open `obsidian/AGENT_RESET_MEMORY_20260414/01_CURRENT_STATE.md`
+2. Open `obsidian/AGENT_RESET_MEMORY_20260414/02_PRODUCT_TRUTH_AND_NON_NEGOTIABLES.md`
+3. Open `obsidian/06_Marketplace_Context_Reset_Memory_20260414.md`
+4. Open `obsidian/07_Ozon_Context_Reset_Memory_20260414.md`
+5. Open `obsidian/Wibes_Growth_OS_20260412/README.md`
+6. Open `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.json`
+7. Open `obsidian/AGENT_RESET_MEMORY_20260414/07_LOCAL_BINARY_ASSETS.md`
 
-## Чего не делать повторно
+## What not to repeat
 
-- не тратить время на доказательство того, что `Gemini` искажает гравировку;
-- не генерировать новые "примерно похожие" браслеты;
-- не подмешивать в анализ чужие формфакторы;
-- не запускать массовые git-действия по грязному дереву;
-- не публиковать в `Wibes` клипы, если товар уже потерял сходство с реальным SKU.
+- Do not spend time proving again that `Gemini` can distort bracelet engraving.
+- Do not generate new "approximately similar" bracelets.
+- Do not mix unrelated form factors into analysis.
+- Do not run mass git actions in a dirty worktree.
+- Do not publish Wibes clips when the bracelet already drifted away from the real SKU.
 
-## Что считать рабочей правдой
+## What counts as working truth
 
-- лучший текущий безопасный Wibes-ролик по `939855999` уже собран локально из реальных stills;
-- `Wibes`-профиль `GravMix` уже упакован;
-- статьи в `Wibes` можно использовать как нативный прогрев;
-- root-memory по маркетплейсам уже лежит в `06_...` и `07_...`;
-- текущая папка добавляет именно product/content handoff, а не заменяет более широкую бизнес-память.
+- The safest current Wibes clip for `939855999` already exists as local exact-product motion from real stills.
+- The `GravMix` Wibes profile is already packaged and usable.
+- Wibes articles can be used as a native warmup layer.
+- Marketplace root memory already lives in `06_...` and `07_...`.
+- This folder adds product/content handoff and does not replace the wider business memory.
+- Local render videos may exist outside git history. Check the binary inventory note before rebuilding motion assets from scratch.

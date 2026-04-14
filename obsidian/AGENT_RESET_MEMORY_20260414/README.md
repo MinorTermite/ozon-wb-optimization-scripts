@@ -1,21 +1,23 @@
 # Agent Reset Memory 20260414
 
-Папка фиксирует операционную память для следующего AI-агента после сброса контекста.
+This folder stores operational memory for the next AI agent after context reset.
 
-Цель:
-- не поднимать заново историю по `WB`, `Ozon`, `Wibes`, `Gemini`, промптам и визуалам;
-- быстро восстановить фактическое состояние работ;
-- не повторять уже выявленные ошибки по браслетам и генерации;
-- сразу продолжать с корректной точки.
+Goal:
+- avoid reloading the full history for `WB`, `Ozon`, `Wibes`, `Gemini`, prompts, and visuals;
+- restore the factual working state quickly;
+- avoid repeating already-known bracelet and generation mistakes;
+- continue from the correct operational baseline.
 
-Порядок чтения:
+Read in this order:
 1. `01_CURRENT_STATE.md`
 2. `02_PRODUCT_TRUTH_AND_NON_NEGOTIABLES.md`
 3. `03_WIBES_PLAYBOOK.md`
 4. `04_GEMINI_AND_VIDEO_LIMITS.md`
 5. `05_ASSET_AND_SCRIPT_MAP.md`
-6. `manifest.json`
+6. `06_RESET_PROTOCOL.md`
+7. `07_LOCAL_BINARY_ASSETS.md`
+8. `manifest.json`
 
-Ключевой принцип:
+Core rule:
 
-Для браслетов GravMix нельзя доверять генеративной модели как источнику финального товара. Любая нейросетевая генерация допустима только там, где она не меняет сам браслет, его форму, тип, гравировку и смысл изделия.
+For GravMix bracelets, do not trust generative output as the final product source when bracelet form, engraving, recipient meaning, or SKU truth matters.
