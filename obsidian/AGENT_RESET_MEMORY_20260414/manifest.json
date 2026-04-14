@@ -1,6 +1,6 @@
 {
   "date": "2026-04-14",
-  "branch": "codex/ozon-obsidian-reset-memory-20260414",
+  "branch": "codex/context-reset-memory-20260414",
   "purpose": "Agent handoff memory after context reset",
   "primary_docs": [
     "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\AGENT_RESET_MEMORY_20260414\\01_CURRENT_STATE.md",

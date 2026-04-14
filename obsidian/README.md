@@ -5,7 +5,10 @@
 Структура:
 - `00_Documentation_Basis.md` — краткая выжимка из актуальной документации OpenAI и Gemini по тому, как писать промпты.
 - `01_Bracelet_Reference_Truth.md` — зафиксированная визуальная правда по вашим браслетам.
-- `06_Marketplace_Context_Reset_Memory_20260414.md` — первая точка входа после сброса контекста по Yandex Market, Ozon, Ритм, цене и активным ограничениям.
+- `06_Marketplace_Context_Reset_Memory_20260414.md` — широкая reset-memory заметка по всему стеку маркетплейсов и смежных каналов.
+- `07_Ozon_Context_Reset_Memory_20260414.md` — первая точка входа после сброса контекста для всех задач по Ozon.
+- `99_AGENT_RESET_MEMORY_INDEX_20260414.md` — быстрый индекс по product/content handoff после сброса контекста.
+- `AGENT_RESET_MEMORY_20260414/` — сжатый handoff-пакет по Wibes, visual pipeline, product truth и reset-протоколу.
 - `Gemini/` — промпты под Gemini web / Gemini image workflows.
 - `ChatGPT/` — промпты под ChatGPT web image workflows.
 
