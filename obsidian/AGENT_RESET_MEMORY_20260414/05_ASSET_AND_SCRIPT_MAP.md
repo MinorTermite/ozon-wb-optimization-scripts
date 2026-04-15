@@ -21,6 +21,7 @@ Use it as the brand source for avatar checks, storefront consistency, and Wibes 
   - `obsidian/Wibes_Launch_20260410/939855999_brasshir51_moya_dochenka_ot_papy`
 - Exact-product motion pack:
   - `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact`
+  - `obsidian/Wibes_Exact_Product_20260415/338840769_nash_synochek_exact`
 
 ## Key visuals
 
@@ -35,10 +36,14 @@ Exact-product outputs:
 - `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.mp4`
 - `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414_poster.png`
 - `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.json`
+- `obsidian/Wibes_Exact_Product_20260415/338840769_nash_synochek_exact/wibes_exact_product_338840769_20260415.mp4`
+- `obsidian/Wibes_Exact_Product_20260415/338840769_nash_synochek_exact/wibes_exact_product_338840769_20260415_poster.png`
+- `obsidian/Wibes_Exact_Product_20260415/338840769_nash_synochek_exact/wibes_exact_product_338840769_20260415.json`
 
 ## Local-only binary renders
 
 These video files exist locally in the workspace and are intentionally not committed in the handoff branch:
+- `obsidian/Wibes_Exact_Product_20260415/338840769_nash_synochek_exact/wibes_exact_product_338840769_20260415.mp4`
 - `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.mp4`
 - `obsidian/Wibes_Launch_20260410/939855999_brasshir51_moya_dochenka_ot_papy/renders/wibes_motion_939855999_20260410.mp4`
 - `obsidian/Wibes_Launch_20260410/939855999_brasshir51_moya_dochenka_ot_papy/renders/wibes_motion_939855999_20260411_4k.mp4`
@@ -52,6 +57,8 @@ Read `obsidian/AGENT_RESET_MEMORY_20260414/07_LOCAL_BINARY_ASSETS.md` for sizes,
 
 - Generic clip publish:
   - `scripts_tool/wibes_publish_generic_20260412.js`
+- Exact-product motion builder for next son-first queue asset:
+  - `scripts_tool/build_wibes_exact_product_motion_338840769_20260415.py`
 - SKU-specific publish:
   - `scripts_tool/wibes_publish_939855999_20260412.js`
 - Profile finalization:
@@ -78,5 +85,6 @@ Read `obsidian/AGENT_RESET_MEMORY_20260414/07_LOCAL_BINARY_ASSETS.md` for sizes,
 4. `obsidian/07_Ozon_Context_Reset_Memory_20260414.md`
 5. `obsidian/Wibes_Growth_OS_20260412/README.md`
 6. `obsidian/Wibes_Growth_OS_20260412/03_LAUNCH_QUEUE_20260412.md`
-7. `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.json`
-8. `obsidian/AGENT_RESET_MEMORY_20260414/07_LOCAL_BINARY_ASSETS.md`
+7. `obsidian/Wibes_Exact_Product_20260415/338840769_nash_synochek_exact/wibes_exact_product_338840769_20260415.json`
+8. `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.json`
+9. `obsidian/AGENT_RESET_MEMORY_20260414/07_LOCAL_BINARY_ASSETS.md`

@@ -1,6 +1,6 @@
 # Current State
 
-Snapshot date: `2026-04-14`
+Snapshot date: `2026-04-15`
 
 ## Git
 
@@ -35,7 +35,20 @@ Snapshot date: `2026-04-14`
   - log: `output/playwright/wibes_publish_article_20260412.json`
 - A newer exact-product clip was built locally without Gemini redraw:
   - `obsidian/Wibes_Exact_Product_20260414/939855999_daughter_from_dad_exact/wibes_exact_product_939855999_20260414.mp4`
+- A second exact-product clip for the next son-first queue slot was built locally from real WB card media:
+  - `obsidian/Wibes_Exact_Product_20260415/338840769_nash_synochek_exact/wibes_exact_product_338840769_20260415.mp4`
 - This note set does not mark that exact-product clip as re-published. Treat it as a ready local asset, not as confirmed live content.
+
+## Ozon promotion state
+
+- Store `3292967` seller-side promo cleanup is still holding:
+  - live seller-only recheck on `2026-04-15` found `max boosting` participating_total = `1`
+  - new weak below-min targets in max boosting = `0`
+- Current stock-sale action `3570172` has `3` candidates, but all exposed `max_action_price` values below the current `min_price` floor.
+- Conclusion:
+  - do not manually add those stock-sale candidates;
+  - do not widen Ozon promo participation just to increase surface area;
+  - safe live state today is to keep the cleaned promo perimeter unchanged.
 
 ## Video generation truth
 

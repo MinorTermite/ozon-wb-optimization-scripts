@@ -1,0 +1,22 @@
+{
+  "sku": "338840769",
+  "mode": "exact-product-motion",
+  "duration_sec": 7.2,
+  "fps": 25,
+  "frames": 180,
+  "source_images": [
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260415\\338840769_nash_synochek_exact\\source\\01.webp",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260415\\338840769_nash_synochek_exact\\source\\02.webp",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260415\\338840769_nash_synochek_exact\\source\\03.webp",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260415\\338840769_nash_synochek_exact\\source\\04.webp",
+    "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260415\\338840769_nash_synochek_exact\\source\\05.webp"
+  ],
+  "output_mp4": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260415\\338840769_nash_synochek_exact\\wibes_exact_product_338840769_20260415.mp4",
+  "output_poster": "C:\\Users\\GravMix\\.gemini\\antigravity\\playground\\core-pulsar\\obsidian\\Wibes_Exact_Product_20260415\\338840769_nash_synochek_exact\\wibes_exact_product_338840769_20260415_poster.png",
+  "notes": [
+    "Built from real WB card media",
+    "No generative redraw",
+    "No extra text overlays",
+    "Prepared for Wibes posting queue"
+  ]
+}
